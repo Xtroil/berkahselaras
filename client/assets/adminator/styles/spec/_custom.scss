@@ -1,0 +1,17 @@
+.sidebar-link.router-link-exact-active.router-link-active, .sidebar-link.router-link-exact-active.router-link-active:hover {
+    background: #23b7e5 !important;
+    color: white !important;
+}
+.sidebar-link.router-link-exact-active.router-link-active .icon-holder i{
+    color: white !important;
+}
+.sidebar-link:not(.router-link-active):hover{
+  background: #fff6ab  !important;
+}
+.page-item.active .page-link {
+  background-color: #23b7e5;
+  border-color: #23b7e5;
+}
+.bg-lightyellow{
+  background: rgb(254,251,241) !important;
+}

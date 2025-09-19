@@ -1,0 +1,63 @@
+kegiatan_id;kode;nama;satuan_kerja_id;anggaran;tahun_kinerja
+644;5.01.01.2.01.0001;Penyusunan Dokumen Perencanaan Perangkat Daerah;5;5.000.000,00;2025
+644;5.01.01.2.02.0001;Penyediaan Gaji dan Tunjangan ASN;5;3.636.326.000,00;2025
+645;5.01.01.2.02.0002;Penyediaan Administrasi Pelaksanaan Tugas ASN;5;1.244.589.000,00;2025
+645;5.01.01.2.05.0002;Pengadaan Pakaian Dinas beserta Atribut Kelengkapannya;5;0;2025
+645;5.01.01.2.05.0009;Pendidikan dan Pelatihan Pegawai Berdasarkan Tugas dan Fungsi;5;70.000.000,00;2025
+645;5.01.01.2.05.0011;Bimbingan Teknis Implementasi Peraturan Perundang-Undangan;5;100.000.000,00;2025
+646;5.01.01.2.06.0001;Penyediaan Komponen Instalasi Listrik/Penerangan Bangunan Kantor;5;20.000.000,00;2025
+647;5.01.01.2.06.0002;Penyediaan Peralatan dan Perlengkapan Kantor;5;77.000.000,00;2025
+648;5.01.01.2.06.0003;Penyediaan Peralatan Rumah Tangga;5;10.000.000,00;2025
+648;5.01.01.2.06.0004;Penyediaan Bahan Logistik Kantor;5;140.000.000,00;2025
+648;5.01.01.2.06.0005;Penyediaan Barang Cetakan dan Penggandaan;5;20.000.000,00;2025
+649;5.01.01.2.06.0006;Penyediaan Bahan Bacaan dan Peraturan Perundang-undangan;5;12.000.000,00;2025
+649;5.01.01.2.06.0009;Penyelenggaraan Rapat Koordinasi dan Konsultasi SKPD;5;200.000.000,00;2025
+649;5.01.01.2.07.0001;Pengadaan Kendaraan Perorangan Dinas atau Kendaraan Dinas Jabatan;5;50.000.000,00;2025
+650;5.01.01.2.07.0002;Pengadaan Kendaraan Dinas Operasional atau Lapangan;5;0;2025
+650;5.01.01.2.07.0005;Pengadaan Mebel;5;100.000.000,00;2025
+650;5.01.01.2.07.0006;Pengadaan Peralatan dan Mesin Lainnya;5;265.000.000,00;2025
+651;5.01.01.2.08.0001;Penyediaan Jasa Surat Menyurat;5;2.000.000,00;2025
+651;5.01.01.2.08.0002;Penyediaan Jasa Komunikasi, Sumber Daya Air dan Listrik;5;137.000.000,00;2025
+651;5.01.01.2.08.0004;Penyediaan Jasa Pelayanan Umum Kantor;5;540.900.000,00;2025
+651;5.01.01.2.09.0002;Penyediaan Jasa Pemeliharaan, Biaya Pemeliharaan, Pajak dan Perizinan Kendaraan Dinas Operasional atau Lapangan;5;100.000.000,00;2025
+652;5.01.01.2.09.0006;Pemeliharaan Peralatan dan Mesin Lainnya;5;26.000.000,00;2025
+652;5.01.02.2.01.0001;Analisis Kondisi Daerah, Permasalahan, dan Isu Strategis Pembangunan Daerah;5;0;2025
+652;5.01.02.2.01.0002;Koordinasi Penelaahan Dokumen Perencanaan Pembangunan Daerah dengan Dokumen Kebijakan Lainnya;5;0;2025
+652;5.01.02.2.01.0003;Pelaksanaan Konsultasi Publik;5;0;2025
+653;5.01.02.2.01.0004;Koordinasi Pelaksanaan Forum Perangkat Daerah/Lintas Perangkat Daerah;5;0;2025
+653;5.01.02.2.01.0005;Pelaksanaan Musrenbang Kabupaten/Kota;5;0;2025
+653;5.01.02.2.01.0006;Penyiapan Bahan Koordinasi Musrenbang Kecamatan;5;0;2025
+654;5.01.02.2.01.0007;Koordinasi Penyusunan dan Penetapan Dokumen Perencanaan Pembangunan Daerah Kabupaten/Kota;5;300.000.000,00;2025
+654;5.01.02.2.02.0001;Analisis Data dan Informasi Perencanaan Pembangunan Daerah;5;0;2025
+654;5.01.02.2.02.0002;Pembinaan dan Pemanfaatan Data dan Informasi Perencanaan Pembangunan Perangkat Daerah;5;0;2025
+654;5.01.02.2.02.0003;Penyusunan Profil Pembangunan Daerah Kabupaten/Kota;5;0;2025
+655;5.01.02.2.03.0003;Monitoring, Evaluasi dan Penyusunan Laporan Berkala Pelaksanaan Pembangunan Daerah;5;0;2025
+655;5.01.03.2.01.0001;Koordinasi Penyusunan Dokumen Perencanaan Pembangunan Daerah Bidang Pemerintahan (RPJPD, RPJMD dan RKPD);5;0;2025
+655;5.01.03.2.01.0002;Asistensi Penyusunan Dokumen Perencanaan Pembangunan Perangkat Daerah Bidang Pemerintahan;5;0;2025
+655;5.01.03.2.01.0005;Koordinasi Penyusunan Dokumen Perencanaan Pembangunan Daerah Bidang Pembangunan Manusia (RPJPD, RPJMD dan RKPD);5;0;2025
+655;5.01.03.2.01.0006;Asistensi Penyusunan Dokumen Perencanaan Pembangunan Perangkat Daerah Bidang Pembangunan Manusia;5;0;2025
+655;5.01.03.2.01.0007;Pelaksanaan Monitoring dan Evaluasi Penyusunan Dokumen Perencanaan Pembangunan Perangkat Daerah Bidang Pembangunan Manusia;5;0;2025
+655;5.01.03.2.01.0008;Koordinasi Pelaksanaan Sinergitas dan Harmonisasi Perencanaan Pembangunan Daerah Bidang Pembangunan Manusia;5;100.000.000,00;2025
+655;5.01.03.2.02.0001;Koordinasi Penyusunan Dokumen Perencanaan Pembangunan Daerah Bidang Perekonomian (RPJPD, RPJMD dan RKPD);5;100.000.000,00;2025
+655;5.01.03.2.02.0002;Asistensi Penyusunan Dokumen Perencanaan Pembangunan Perangkat Daerah Bidang Perekonomian;5;0,00;2025
+655;5.01.03.2.02.0003;Pelaksanaan Monitoring dan Evaluasi Penyusunan Dokumen Perencanaan Pembangunan Perangkat Daerah Bidang Perekonomian;5;0,00;2025
+655;5.01.03.2.02.0004;Koordinasi Pelaksanaan Sinergitas dan Harmonisasi Perencanaan Pembangunan Daerah Bidang Perekonomian;5;0,00;2025
+655;5.01.03.2.03.0001;Koordinasi Penyusunan Dokumen Perencanaan Pembangunan Daerah Bidang Infrastruktur (RPJPD, RPJMD dan RKPD);5;100.000.000,00;2025
+655;5.01.03.2.03.0002;Asistensi Penyusunan Dokumen Perencanaan Pembangunan Perangkat Daerah Bidang Infrastruktur;5;0,00;2025
+655;5.01.03.2.03.0003;Pelaksanaan Monitoring dan Evaluasi Penyusunan Dokumen Perencanaan Pembangunan Perangkat Daerah Bidang Infrastruktur;5;0,00;2025
+655;5.01.03.2.03.0004;Koordinasi Pelaksanaan Sinergitas dan Harmonisasi Perencanaan Pembangunan Daerah Bidang Infrastruktur;5;0,00;2025
+655;5.01.03.2.03.0005;Koordinasi Penyusunan Dokumen Perencanaan Pembangunan Daerah Bidang Kewilayahan (RPJPD, RPJMD dan RKPD);5;0,00;2025
+655;5.01.03.2.03.0006;Asistensi Penyusunan Dokumen Perencanaan Pembangunan Perangkat Daerah Bidang Kewilayahan;5;0,00;2025
+655;5.05.02.2.01.0005;Fasilitasi, Pelaksanaan dan Evaluasi Penelitian dan Pengembangan Bidang Keuangan dan Aset Daerah, Reformasi Birokrasi;5;100.000.000,00;2025
+655;5.05.02.2.01.0012;Pengelolaan Data Kelitbangan dan Peraturan;5;0,00;2025
+655;5.05.02.2.02.0001;Penelitian dan Pengembangan Bidang Aspek- Aspek Sosial;5;0,00;2025
+655;5.05.02.2.02.0003;Penelitian dan Pengembangan Pendidikan dan Kebudayaan;5;0,00;2025
+655;5.05.02.2.02.0004;Penelitian dan Pengembangan Kepemudaan dan Olahraga;5;200.000.000,00;2025
+655;5.05.02.2.02.0005;Penelitian dan Pengembangan Pariwisata;5;200.000.000,00;2025
+655;5.05.02.2.02.0006;Penelitian dan Pengembangan Kesehatan;5;0,00;2025
+655;5.05.02.2.03.0005;Penelitian dan Pengembangan Kelautan dan Perikanan;5;0,00;2025
+655;5.05.02.2.03.0010;Penelitian dan Pengembangan Perhubungan;5;100.000.000,00;2025
+655;5.05.02.2.03.0012;Penelitian dan Pengembangan Penataan Ruang dan Pertanahan;5;0,00;2025
+655;5.05.02.2.03.0013;Penelitian dan Pengembangan Komunikasi dan Informatika;5;0 0;2025
+655;5.05.02.2.04.0003;Diseminasi Jenis, Prosedur dan Metode Penyelenggaraan Pemerintahan Daerah yang Bersifat Inovatif;5;0,00;2025
+655;5.05.02.2.04.0004;Sosialisasi dan Diseminasi Hasil-Hasil Kelitbangan;5;0,00;2025

@@ -1,0 +1,99 @@
+kegiatan_id;kode;nama;satuan_kerja_id;anggaran;tahun_kinerja
+;1.01.01.2.01.0001;Penyusunan Dokumen Perencanaan Perangkat Daerah;DIKBUD;5.000.000,00;2025
+;1.01.01.2.01.0006;Koordinasi dan Penyusunan Laporan Capaian Kinerja dan Ikhtisar Realisasi Kinerja SKPD;DIKBUD;0;2025
+;1.01.01.2.01.0007;Evaluasi Kinerja Perangkat Daerah;DIKBUD;0;2025
+;1.01.01.2.02.0001;Penyediaan Gaji dan Tunjangan ASN;DIKBUD;147.687.630.000,00;2025
+;1.01.01.2.02.0002;Penyediaan Administrasi Pelaksanaan Tugas ASN;DIKBUD;2.801.304.000,00;2025
+;1.01.01.2.02.0007;Koordinasi dan Penyusunan Laporan Keuangan Bulanan/ Triwulanan/ Semesteran SKPD;DIKBUD;0;2025
+;1.01.01.2.06.0001;Penyediaan Komponen Instalasi;DIKBUD;3.118.850,00;2025
+;1.01.01.2.06.0002;Penyediaan Peralatan dan Perlengkapan Kantor;DIKBUD;43.464.200,00;2025
+;1.01.01.2.06.0004;Penyediaan Bahan Logistik Kantor;DIKBUD;60.000.000,00;2025
+;1.01.01.2.06.0005;Penyediaan Barang Cetakan dan Penggandaan;DIKBUD;35.000.000,00;2025
+;1.01.01.2.06.0006;Penyediaan Bahan Bacaan dan Peraturan Perundang-undangan;DIKBUD;6.000.000,00;2025
+;1.01.01.2.06.0009;Penyelenggaraan Rapat Koordinasi dan Konsultasi SKPD;DIKBUD;100.000.000,00;2025
+;1.01.01.2.06.0010;Penatausahaan Arsip Dinamis pada SKPD;DIKBUD;0;2025
+;1.01.01.2.07.0005;Pengadaan Mebel;DIKBUD;0;2025
+;1.01.01.2.07.0006;Pengadaan Peralatan dan Mesin Lainnya;DIKBUD;0;2025
+;1.01.01.2.08.0001;Penyediaan Jasa Surat Menyurat;DIKBUD;3.996.000,00;2025
+;1.01.01.2.08.0002;Penyediaan Jasa Komunikasi, Sumber Daya Air dan Listrik;DIKBUD;89.999.700,00;2025
+;1.01.01.2.08.0004;Penyediaan Jasa Pelayanan Umum Kantor;DIKBUD;1.344.224.000,00;2025
+;1.01.01.2.09.0001;Penyediaan Jasa Pemeliharaan, Biaya Pemeliharaan, dan Pajak Kendaraan Perorangan Dinas atau Kendaraan Dinas Jabatan;DIKBUD;30.000.000,00;2025
+;1.01.01.2.09.0002;Penyediaan Jasa Pemeliharaan, Biaya Pemeliharaan, Pajak dan Perizinan Kendaraan Dinas Operasional atau Lapangan;DIKBUD;5.000.000,00;2025
+;1.01.01.2.09.0007;Pemeliharaan Aset Tetap Lainnya;DIKBUD;0;2025
+;1.01.01.2.09.0009;Pemeliharaan/Rehabilitasi Gedung Kantor dan Bangunan Lainnya;DIKBUD;0;2025
+;1.01.01.2.09.0011;Pemeliharaan/Rehabilitasi Sarana dan Prasarana Pendukung Gedung Kantor atau Bangunan Lainnya;DIKBUD;0;2025
+;1.01.02.2.01.0003;Pembangunan Ruang Guru/Kepala Sekolah/TU;DIKBUD;400.000.000,00;2025
+;1.01.02.2.01.0005;Pembangunan Perpustakaan Sekolah;DIKBUD;600.000.000,00;2025
+;1.01.02.2.01.0006;Pembangunan Sarana, Prasarana dan Utilitas Sekolah;DIKBUD;150.000.000,00;2025
+;1.01.02.2.01.0007;Pembangunan Rumah Dinas Kepala Sekolah/Guru/Penjaga Sekolah;DIKBUD;200.000.000,00;2025
+;1.01.02.2.01.0009;Rehabilitasi Sedang/Berat Ruang Guru/Kepala Sekolah/TU;DIKBUD;0;2025
+;1.01.02.2.01.0011;Rehabilitasi Sedang/Berat Perpustakaan Sekolah;DIKBUD;400.000.000,00;2025
+;1.01.02.2.01.0013;Rehabilitasi Sedang/Berat Rumah Dinas Kepala Sekolah/Guru/Penjaga Sekolah;DIKBUD;200.000.000,00;2025
+;1.01.02.2.01.0014;Pengadaan Mebel Sekolah;DIKBUD;591.000.000,00;2025
+;1.01.02.2.01.0025;Pembinaan Minat, Bakat dan Kreativitas Siswa;DIKBUD;500.000.000,00;2025
+;1.01.02.2.01.0027;Pengembangan Karir Pendidik dan Tenaga Kependidikan pada Satuan Pendidikan Sekolah Dasar;DIKBUD;450.000.000,00;2025
+;1.01.02.2.01.0028;Pembinaan Kelembagaan dan Manajemen Sekolah;DIKBUD;255.000.000,00;2025
+;1.01.02.2.01.0029;Pengelolaan Dana BOS Sekolah Dasar;DIKBUD;0;2025
+;1.01.02.2.01.0030;Peningkatan Kapasitas Pengelolaan Dana BOS Sekolah Dasar;DIKBUD;75.000.000,00;2025
+;1.01.02.2.01.0031;Pembangunan Laboratorium Sekolah Dasar;DIKBUD;0;2025
+;1.01.02.2.01.0035;Pembinaan Penggunaan Teknologi, Informasi dan Komunikasi (TIK) untuk Pendidikan;DIKBUD;100.000.000,00;2025
+;1.01.02.2.01.0037;Pelatihan Penggunaan Aplikasi Bidang Pendidikan;DIKBUD;240.000.000,00;2025
+;1.01.02.2.01.0039;Sosialisasi dan Advokasi Kebijakan Bidang Pendidikan;DIKBUD;150.000.000,00;2025
+;1.01.02.2.01.0047;Pembangunan Ruang Kelas Baru;DIKBUD;2.584.000.000,00;2025
+;1.01.02.2.01.0036;Rehabilitasi Sedang/Berat Sarana, Prasarana dan Utilitas Sekolah;DIKBUD;75.000.000,00;2025
+;1.01.02.2.01.0048;Penyelenggaraan Proses Belajar Bagi Peserta Didik;DIKBUD;100.000.000,00;2025
+;1.01.02.2.01.0050;Rehabilitasi Sedang/Berat Ruang Kelas Sekolah;DIKBUD;8.800.000.000,00;2025
+;1.01.02.2.01.0051;Penyediaan Biaya Personil Peserta Didik Sekolah Dasar;DIKBUD;460.000.000,00;2025
+;1.01.02.2.01.0054;Pengadaan Alat Praktik dan Peraga Peserta Didik;DIKBUD;0;2025
+;1.01.02.2.01.0055;Pembangunan Ruang Guru/Kepala Sekolah/TU;DIKBUD;300.000.000,00;2025
+;1.01.02.2.02.0003;Pembangunan Perpustakaan Sekolah;DIKBUD;150.000.000,00;2025
+;1.01.02.2.02.0005;Pembangunan Laboratorium;DIKBUD;350.000.000,00;2025
+;1.01.02.2.02.0006;Pembangunan Rumah Dinas Kepala Sekolah/Guru/Penjaga Sekolah;DIKBUD;200.000.000,00;2025
+;1.01.02.2.02.0009;Pembangunan Sarana, Prasarana dan Utilitas Sekolah;DIKBUD;0;2025
+;1.01.02.2.02.0012;Pembangunan Sarana, Prasarana dan Utilitas Sekolah;DIKBUD;900.000.000,00;2025
+;1.01.02.2.02.0014;Rehabilitasi Sedang/Berat Perpustakaan Sekolah;DIKBUD;200.000.000,00;2025
+;1.01.02.2.02.0017;Rehabilitasi Sedang/Berat Rumah Dinas Kepala Sekolah/Guru/Penjaga Sekolah;DIKBUD;0;2025
+;1.01.02.2.02.0021;Pengadaan Mebel Sekolah;DIKBUD;0;2025
+;1.01.02.2.02.0025;Pengadaan Perlengkapan Sekolah;DIKBUD;0;2025
+;1.01.02.2.02.0027;Penyediaan Biaya Personil Peserta Didik Sekolah Menengah Pertama;DIKBUD;460.000.000,00;2025
+;1.01.02.2.02.0032;Pembinaan Minat, Bakat dan Kreativitas Siswa;DIKBUD;500.000.000,00;2025
+;1.01.02.2.02.0038;Pengembangan Karir Pendidik dan Tenaga Kependidikan pada Satuan Pendidikan Sekolah Menengah Pertama;DIKBUD;1.170.000.000,00;2025
+;1.01.02.2.02.0040;Pembinaan Kelembagaan dan Manajemen Sekolah;DIKBUD;250.000.000,00;2025
+;1.01.02.2.02.0041;Pengelolaan Dana BOS Sekolah Menengah Pertama;DIKBUD;0;2025
+;1.01.02.2.02.0042;Peningkatan Kapasitas Pengelolaan Dana BOS Sekolah Menengah Pertama;DIKBUD;50.000.000,00;2025
+;1.01.02.2.02.0043;Pembinaan Penggunaan Teknologi, Informasi dan Komunikasi (TIK) untuk Pendidikan;DIKBUD;100.000.000,00;2025
+;1.01.02.2.02.0048;Penyelenggaraan Proses Belajar bagi Peserta Didik;DIKBUD;100.000.000,00;2025
+;1.01.02.2.02.0058;Pembangunan Ruang Kelas Baru;DIKBUD;1.200.000.000,00;2025
+;1.01.02.2.02.0059;Rehabilitasi Sedang/Berat Ruang Guru/Kepala Sekolah/TU;DIKBUD;400.000.000,00;2025
+;1.01.02.2.02.0064;Pengadaan Alat Praktik dan Peraga Peserta Didik;DIKBUD;0;2025
+;1.01.02.2.02.0067;Pembangunan Sarana, Prasarana dan Utilitas PAUD;DIKBUD;0;2025
+;1.01.02.2.03.0008;Pengadaan Alat Rumah Tangga PAUD;DIKBUD;700.000.000,00;2025
+;1.01.02.2.03.0015;Penyediaan Pendidik dan Tenaga Kependidikan bagi Satuan PAUD;DIKBUD;300.000.000,00;2025
+;1.01.02.2.03.0017;Pembinaan Kelembagaan dan Manajemen PAUD;DIKBUD;440.000.000,00;2025
+;1.01.02.2.03.0018;Pengelolaan Dana BOP PAUD;DIKBUD;190.000.000,00;2025
+;1.01.02.2.03.0030;Pembangunan Ruang Kelas Baru;DIKBUD;2.040.000.000,00;2025
+;1.01.02.2.03.0045;Rehabilitasi Sedang/Berat Sarana, Prasarana dan Utilitas PAUD;DIKBUD;0;2025
+;1.01.02.2.03.0047;Penyelenggaraan Proses Belajar PAUD;DIKBUD;375.000.000,00;2025
+;1.01.02.2.03.0049;Rehabilitasi sedang/berat Ruang Guru/Kepala Sekolah/TU;DIKBUD;0;2025
+;1.01.02.2.03.0051;Rehabilitasi Sedang/Berat Ruang Kelas Sekolah;DIKBUD;2.040.000.000,00;2025
+;1.01.02.2.04.0017;Pengelolaan Dana BOP Sekolah Nonformal/Kesetaraan;DIKBUD;100.000.000,00;2025
+;1.01.02.2.04.0018;Peningkatan Kapasitas Pengelolaan Dana BOP Sekolah Nonformal/Kesetaraan;DIKBUD;50.000.000,00;2025
+;1.01.02.2.04.0038;Pembangunan Ruang Guru/Kepala Sekolah/TU;DIKBUD;0;2025
+;1.01.02.2.04.0046;Penyelenggaraan Proses Belajar bagi Peserta Didik;DIKBUD;400.000.000,00;2025
+;1.01.02.2.04.0049;Pemeliharaan Rutin Sarana, Prasarana dan Utilitas Sekolah;DIKBUD;0;2025
+;1.01.03.2.01.0004;Pelatihan Penyusunan Kurikulum Muatan Lokal Pendidikan Dasar;DIKBUD;100.000.000,00;2025
+;1.01.04.2.01.0001;Perhitungan dan Pemetaan Pendidik dan Tenaga Kependidikan Satuan Pendidikan Dasar, PAUD, dan Pendidikan Nonformal/Kesetaraan;DIKBUD;325.000.000,00;2025
+;1.01.04.2.01.0002;Penataan Pendistribusian Pendidik dan Tenaga Kependidikan bagi Satuan Pendidikan Dasar, PAUD, dan Pendidikan Nonformal/Kesetaraan;DIKBUD;200.000.000,00;2025
+;1.01.06.2.01.0001;Penyusunan Kamus Bahasa Daerah Kabupaten / Kota;DIKBUD;0;2025
+;1.01.06.2.01.0003;Publikasi Bahasa dan Sastra Daerah Kabupaten / Kota;DIKBUD;670.000.000,00;2025
+;2.22.02.2.01.0001;Pelindungan, Pengembangan, Pemanfaatan Objek Pemajuan Kebudayaan;DIKBUD;130.000.000,00;2025
+;2.22.02.2.01.0002;Pembinaan Sumber Daya Manusia, Lembaga, dan Pranata Kebudayaan;DIKBUD;0;2025
+;2.22.02.2.02.0001;Pelindungan, Pengembangan, Pemanfaatan Objek Pemajuan Tradisi Budaya;DIKBUD;0;
+;2.22.02.2.02.0003;Pemberian Penghargaan kepada Pihak yang Berprestasi atau Berkontribusi Luar Biasa Sesuai dengan Prestasi dan Kontribusinya dalam Pemajuan Kebudayaan;DIKBUD;0;2025
+;2.22.03.2.01.0001;Peningkatan Pendidikan dan Pelatihan Sumber Daya Manusia Kesenian Tradisional;DIKBUD;0;2025
+;2.22.04.2.01.0001;Pemberdayaan Sumber Daya Manusia dan Lembaga Sejarah Lokal Kabupaten/Kota;DIKBUD;0;2025
+;2.22.05.2.01.0001;Pendaftaran Objek Diduga Cagar Budaya;DIKBUD;100.000.000,00;2025
+;2.22.05.2.01.0002;Penetapan Cagar Budaya;DIKBUD;200.000.000,00;2025
+;2.22.05.2.02.0001;Pelindungan Cagar Budaya;DIKBUD;0;2025
+;2.22.05.2.02.0002;Pengembangan Cagar Budaya;DIKBUD;0;2025
+;2.22.05.2.02.0003;Pemanfaatan Cagar Budaya;DIKBUD;0;2025

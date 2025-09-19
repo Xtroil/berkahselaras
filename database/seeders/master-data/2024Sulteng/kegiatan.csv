@@ -1,0 +1,717 @@
+program_id;kode;nama;satuan_kerja_id;anggaran;tahun_kinerja
+5242;5.03.01.1.01;Perencanaan, Penganggaran, dan Evaluasi Kinerja Perangkat Daerah;5;524384150;2024
+5242;5.03.01.1.02;Administrasi Keuangan Perangkat Daerah;5;11357120960;2024
+5242;5.03.01.1.03;Administrasi Barang Milik Daerah pada Perangkat Daerah;5;45549800;2024
+5242;5.03.01.1.05;Administrasi Kepegawaian Perangkat Daerah;5;141100000;2024
+5242;5.03.01.1.06;Administrasi Umum Perangkat Daerah;5;403297895;2024
+5242;5.03.01.1.07;Pengadaan Barang Milik Daerah Penunjang Urusan Pemerintah Daerah;5;731942000;2024
+5242;5.03.01.1.08;Penyediaan Jasa Penunjang Urusan Pemerintahan Daerah;5;2118934750;2024
+5242;5.03.01.1.09;Pemeliharaan Barang Milik Daerah Penunjang Urusan Pemerintahan Daerah;5;719740000;2024
+5241;5.03.02.1.01;Pengadaan, Pemberhentian dan Informasi Kepegawaian ASN;5;1855789400;2024
+5241;5.03.02.1.02;Mutasi dan Promosi ASN;5;795188200;2024
+5241;5.03.02.1.03;Pengembangan Kompetensi ASN;5;1282467400;2024
+5241;5.03.02.1.04;Penilaian dan Evaluasi Kinerja Aparatur;5;521037800;2024
+5257;8.01.01.1.01;Perencanaan, Penganggaran, dan Evaluasi Kinerja Perangkat Daerah;2;382623200;2024
+5257;8.01.01.1.02;Administrasi Keuangan Perangkat Daerah;2;8837167603;2024
+5257;8.01.01.1.03;Administrasi Barang Milik Daerah pada Perangkat Daerah;2;105490750;2024
+5257;8.01.01.1.05;Administrasi Kepegawaian Perangkat Daerah;2;107470275;2024
+5257;8.01.01.1.06;Administrasi Umum Perangkat Daerah;2;552604856;2024
+5257;8.01.01.1.07;Pengadaan Barang Milik Daerah Penunjang Urusan Pemerintah Daerah;2;690353600;2024
+5257;8.01.01.1.08;Penyediaan Jasa Penunjang Urusan Pemerintahan Daerah;2;285825933;2024
+5257;8.01.01.1.09;Pemeliharaan Barang Milik Daerah Penunjang Urusan Pemerintahan Daerah;2;696810000;2024
+5252;8.01.02.1.01;Perumusan Kebijakan Teknis dan Pemantapan Pelaksanaan Bidang Ideologi Pancasila dan Karakter Kebangsaan;2;3665727925;2024
+5253;8.01.03.1.01;Perumusan Kebijakan Teknis dan Pemantapan Pelaksanaan Bidang Pendidikan Politik, Etika Budaya Politik, Peningkatan Demokrasi, Fasilitasi Kelembagaan Pemerintahan, Perwakilan dan Partai Politik, Pemilihan Umum/Pemilihan Umum Kepala Daerah, serta Pemantauan Situasi Politik;2;63502566450;2024
+5254;8.01.04.1.01;Perumusan Kebijakan Teknis dan Pemantapan Pelaksanaan Bidang Pemberdayaan dan Pengawasan Organisasi Kemasyarakatan;2;30906847327;2024
+5255;8.01.05.1.01;Perumusan Kebijakan Teknis dan Pemantapan Pelaksanaan Bidang Ketahanan Ekonomi, Sosial dan Budaya;2;435083625;2024
+5256;8.01.06.1.01;Perumusan Kebijakan Teknis dan Pelaksanaan Pemantapan Kewaspadaan Nasional dan Penanganan Konflik Sosial;2;1621968000;2024
+5080;1.05.01.1.01;Perencanaan, Penganggaran, dan Evaluasi Kinerja Perangkat Daerah;8;392011912;2024
+5080;1.05.01.1.02;Administrasi Keuangan Perangkat Daerah;8;12302063055;2024
+5080;1.05.01.1.03;Administrasi Barang Milik Daerah pada Perangkat Daerah;8;174998500;2024
+5080;1.05.01.1.06;Administrasi Umum Perangkat Daerah;8;530420700;2024
+5080;1.05.01.1.07;Pengadaan Barang Milik Daerah Penunjang Urusan Pemerintah Daerah;8;146656400;2024
+5080;1.05.01.1.08;Penyediaan Jasa Penunjang Urusan Pemerintahan Daerah;8;382289500;2024
+5080;1.05.01.1.09;Pemeliharaan Barang Milik Daerah Penunjang Urusan Pemerintahan Daerah;8;110230000;2024
+5079;1.05.03.1.01;Pelayanan Informasi Rawan Bencana Provinsi;8;265708150;2024
+5079;1.05.03.1.02;Pelayanan Pencegahan dan Kesiapsiagaan Terhadap Bencana;8;7177332459;2024
+5079;1.05.03.1.03;Pelayanan Penyelamatan dan Evakuasi Korban Bencana;8;49734616320;2024
+5079;1.05.03.1.04;Penataan Sistem Dasar Penanggulangan Bencana;8;4019193892;2024
+5237;5.02.01.1.01;Perencanaan, Penganggaran, dan Evaluasi Kinerja Perangkat Daerah;3;2750389765;2024
+5237;5.02.01.1.02;Administrasi Keuangan Perangkat Daerah;3;63680249268;2024
+5237;5.02.01.1.04;Administrasi Pendapatan Daerah Kewenangan Perangkat Daerah;3;999942065;2024
+5237;5.02.01.1.05;Administrasi Kepegawaian Perangkat Daerah;3;1338633050;2024
+5237;5.02.01.1.06;Administrasi Umum Perangkat Daerah;3;7622186158;2024
+5237;5.02.01.1.07;Pengadaan Barang Milik Daerah Penunjang Urusan Pemerintah Daerah;3;7062681650;2024
+5237;5.02.01.1.08;Penyediaan Jasa Penunjang Urusan Pemerintahan Daerah;3;6269361214;2024
+5237;5.02.01.1.09;Pemeliharaan Barang Milik Daerah Penunjang Urusan Pemerintahan Daerah;3;2926169802;2024
+5236;5.02.04.1.01;Kegiatan Pengelolaan Pendapatan Daerah;3;10763201296;2024
+5240;5.02.01.1.01;Perencanaan, Penganggaran, dan Evaluasi Kinerja Perangkat Daerah;4;976282471;2024
+5240;5.02.01.1.02;Administrasi Keuangan Perangkat Daerah;4;378109021324;2024
+5240;5.02.01.1.03;Administrasi Barang Milik Daerah pada Perangkat Daerah;4;100558000;2024
+5240;5.02.01.1.05;Administrasi Kepegawaian Perangkat Daerah;4;1759481260;2024
+5240;5.02.01.1.06;Administrasi Umum Perangkat Daerah;4;1620181377;2024
+5240;5.02.01.1.07;Pengadaan Barang Milik Daerah Penunjang Urusan Pemerintah Daerah;4;6427681437;2024
+5240;5.02.01.1.08;Penyediaan Jasa Penunjang Urusan Pemerintahan Daerah;4;3215462019;2024
+5240;5.02.01.1.09;Pemeliharaan Barang Milik Daerah Penunjang Urusan Pemerintahan Daerah;4;1929974123;2024
+5238;5.02.02.1.01;Koordinasi dan Penyusunan Rencana Anggaran Daerah;4;5452849875;2024
+5238;5.02.02.1.02;Pembinaan Pengelolaan Keuangan Daerah Kabupaten/Kota;4;1065473275;2024
+5238;5.02.02.1.03;Koordinasi dan Pengelolaan Perbendaharaan Daerah;4;4142134051;2024
+5238;5.02.02.1.04;Koordinasi dan Pelaksanaan Akuntansi dan Pelaporan Keuangan Daerah;4;4197522743;2024
+5238;5.02.02.1.05;Penunjang Urusan Kewenangan Pengelolaan Keuangan Daerah;4;729435427490;2024
+5239;5.02.03.1.01;Pengelolaan Barang Milik Daerah;4;4146139250;2024
+5244;5.04.01.1.01;Perencanaan, Penganggaran, dan Evaluasi Kinerja Perangkat Daerah;6;861881750;2024
+5244;5.04.01.1.02;Administrasi Keuangan Perangkat Daerah;6;12741828063;2024
+5244;5.04.01.1.03;Administrasi Barang Milik Daerah pada Perangkat Daerah;6;70189600;2024
+5244;5.04.01.1.05;Administrasi Kepegawaian Perangkat Daerah;6;57860000;2024
+5244;5.04.01.1.06;Administrasi Umum Perangkat Daerah;6;444608026;2024
+5244;5.04.01.1.07;Pengadaan Barang Milik Daerah Penunjang Urusan Pemerintah Daerah;6;616224878;2024
+5244;5.04.01.1.08;Penyediaan Jasa Penunjang Urusan Pemerintahan Daerah;6;1244289924;2024
+5244;5.04.01.1.09;Pemeliharaan Barang Milik Daerah Penunjang Urusan Pemerintahan Daerah;6;2462040423;2024
+5243;5.04.02.1.01;Pengembangan Kompetensi Teknis;6;1800571400;2024
+5243;5.04.02.1.02;Sertifikasi, Kelembagaan, Pengembangan Kompetensi Manajerial dan Fungsional;6;7938914250;2024
+5248;5.07.01.1.01;Perencanaan, Penganggaran, dan Evaluasi Kinerja Perangkat Daerah;9;632041900;2024
+5249;5.07.01.1.02;Administrasi Keuangan Perangkat Daerah;9;6752023391;2024
+5250;5.07.01.1.05;Administrasi Kepegawaian Perangkat Daerah;9;25415200;2024
+5251;5.07.01.1.06;Administrasi Umum Perangkat Daerah;9;57344799;2024
+5252;5.07.01.1.07;Pengadaan Barang Milik Daerah Penunjang Urusan Pemerintah Daerah;9;19116950;2024
+5253;5.07.01.1.08;Penyediaan Jasa Penunjang Urusan Pemerintahan Daerah;9;631543488;2024
+5254;5.07.01.1.09;Pemeliharaan Barang Milik Daerah Penunjang Urusan Pemerintahan Daerah;9;1292099200;2024
+5247;5.07.02.1.01;Pelaksanaan Pelayanan Penghubung;9;6870829243;2024
+5235;5.01.01.1.01;Perencanaan, Penganggaran, dan Evaluasi Kinerja Perangkat Daerah;1;1812715075;2024
+5235;5.01.01.1.02;Administrasi Keuangan Perangkat Daerah;1;18905367220;2024
+5235;5.01.01.1.03;Administrasi Barang Milik Daerah pada Perangkat Daerah;1;173163250;2024
+5235;5.01.01.1.05;Administrasi Kepegawaian Perangkat Daerah;1;1001202970;2024
+5235;5.01.01.1.06;Administrasi Umum Perangkat Daerah;1;4425371756;2024
+5235;5.01.01.1.07;Pengadaan Barang Milik Daerah Penunjang Urusan Pemerintah Daerah;1;2530265646;2024
+5235;5.01.01.1.08;Penyediaan Jasa Penunjang Urusan Pemerintahan Daerah;1;2190694500;2024
+5235;5.01.01.1.09;Pemeliharaan Barang Milik Daerah Penunjang Urusan Pemerintahan Daerah;1;2121507204;2024
+5233;5.01.02.1.01;Penyusunan Perencanaan dan Pendanaan;1;3675195328;2024
+5234;5.01.02.1.02;Analisis Data dan Informasi Pemerintahan Daerah Bidang Perencanaan Pembangunan Daerah;1;821985249;2024
+5235;5.01.02.1.03;Pengendalian, Evaluasi dan Pelaporan Bidang Perencanaan Pembangunan Daerah;1;1199596520;2024
+5236;5.01.02.1.04;Implementasi Sistem Informasi Pemerintahan Daerah di Bidang Pembangunan Daerah;1;280870950;2024
+5234;5.01.03.1.01;Koordinasi Perencanaan Bidang Pemerintahan dan Pembangunan Manusia;1;3033464300;2024
+5234;5.01.03.1.02;Koordinasi Perencanaan Bidang Perekonomian dan SDA (Sumber Daya Alam);1;3132630460;2024
+5234;5.01.03.1.03;Koordinasi Perencanaan Bidang Infrastruktur dan Kewilayahan;1;1751103850;2024
+5246;5.05.01.1.01;Perencanaan, Penganggaran, dan Evaluasi Kinerja Perangkat Daerah;7;839725000;2024
+5246;5.05.01.1.02;Administrasi Keuangan Perangkat Daerah;7;8626050819;2024
+5246;5.05.01.1.03;Administrasi Barang Milik Daerah pada Perangkat Daerah;7;34490000;2024
+5246;5.05.01.1.05;Administrasi Kepegawaian Perangkat Daerah;7;125426213;2024
+5246;5.05.01.1.06;Administrasi Umum Perangkat Daerah;7;414803947;2024
+5246;5.05.01.1.07;Pengadaan Barang Milik Daerah Penunjang Urusan Pemerintah Daerah;7;828769136;2024
+5246;5.05.01.1.08;Penyediaan Jasa Penunjang Urusan Pemerintahan Daerah;7;374644050;2024
+5246;5.05.01.1.09;Pemeliharaan Barang Milik Daerah Penunjang Urusan Pemerintahan Daerah;7;560905000;2024
+5245;5.05.02.1.01;Penelitian dan Pengembangan Bidang Penyelenggaraan Pemerintahan dan Pengkajian Peraturan;7;679999750;2024
+5245;5.05.02.1.02;Penelitian dan Pengembangan Bidang Sosial dan Kependudukan;7;262478400;2024
+5245;5.05.02.1.03;Penelitian dan Pengembangan Bidang Ekonomi dan Pembangunan;7;531008950;2024
+5245;5.05.02.1.04;Pengembangan Inovasi dan Teknologi;7;3335399213;2024
+5060;1.03.01.1.01;Perencanaan, Penganggaran, dan Evaluasi Kinerja Perangkat Daerah;13;1327952900;2024
+5060;1.03.01.1.02;Administrasi Keuangan Perangkat Daerah;13;22874299893;2024
+5060;1.03.01.1.03;Administrasi Barang Milik Daerah pada Perangkat Daerah;13;631614550;2024
+5060;1.03.01.1.05;Administrasi Kepegawaian Perangkat Daerah;13;91461000;2024
+5060;1.03.01.1.06;Administrasi Umum Perangkat Daerah;13;1619302643;2024
+5060;1.03.01.1.07;Pengadaan Barang Milik Daerah Penunjang Urusan Pemerintah Daerah;13;8430720195;2024
+5060;1.03.01.1.08;Penyediaan Jasa Penunjang Urusan Pemerintahan Daerah;13;7208110287;2024
+5060;1.03.01.1.09;Pemeliharaan Barang Milik Daerah Penunjang Urusan Pemerintahan Daerah;13;3686660974;2024
+5057;1.03.10.1.01;Penyelenggaraan Jalan Provinsi;13;376822182045;2024
+5058;1.03.11.1.01;Penyelenggaraan Pelatihan Tenaga Ahli Konstruksi;13;1135118550;2024
+5058;1.03.11.1.02;Penyelenggaraan Sistem Informasi Jasa Konstruksi (SIPJAKI) Cakupan Daerah Provinsi;13;208991950;2024
+5058;1.03.11.1.03;Kebijakan Khusus Terhadap Penyelenggaraan Jasa Konstruksi;13;268718950;2024
+5059;1.03.12.1.01;Penetapan Rencana Tata Ruang Wilayah dan Rencana Rinci Tata Ruang Provinsi;13;440287800;2024
+5059;1.03.12.1.02;Koordinasi dan Sinkronisasi Perencanaan Tata Ruang;13;265187550;2024
+5059;1.03.12.1.03;Koordinasi dan Sinkronisasi Pemanfataan Ruang Daerah Provinsi;13;440027825;2024
+5059;1.03.12.1.04;Koordinasi dan Sinkronisasi Pengendalian Pemanfataan Ruang Daerah Provinsi;13;489850950;2024
+5068;1.03.01.1.01;Perencanaan, Penganggaran, dan Evaluasi Kinerja Perangkat Daerah;14;840985350;2024
+5068;1.03.01.1.02;Administrasi Keuangan Perangkat Daerah;14;25475019279;2024
+5068;1.03.01.1.03;Administrasi Barang Milik Daerah pada Perangkat Daerah;14;199334850;2024
+5068;1.03.01.1.05;Administrasi Kepegawaian Perangkat Daerah;14;610827575;2024
+5068;1.03.01.1.06;Administrasi Umum Perangkat Daerah;14;1253823832;2024
+5068;1.03.01.1.08;Penyediaan Jasa Penunjang Urusan Pemerintahan Daerah;14;12673333153;2024
+5068;1.03.01.1.09;Pemeliharaan Barang Milik Daerah Penunjang Urusan Pemerintahan Daerah;14;1052194565;2024
+5061;1.03.02.1.01;Pengelolaan SDA dan Bangunan Pengaman Pantai pada Wilayah Sungai Lintas Daerah Kabupaten/Kota;14;83289995719;2024
+5061;1.03.02.1.02;Pengembangan dan Pengelolaan Sistem Irigasi Primer dan Sekunder pada Daerah Irigasi yang Luasnya 1000 Ha-3000 Ha dan Daerah Irigasi Lintas Daerah Kabupaten/Kota;14;81715203724;2024
+5062;1.03.03.1.01;Pengelolaan dan Pengembangan Sistem Penyediaan Air Minum (SPAM) Lintas Kabupaten/Kota;14;14810741375;2024
+5063;1.03.04.1.01;Pengembangan Sistem dan Pengelolaan Persampahan Regional;14;2218341850;2024
+5064;1.03.05.1.01;Pengelolaan dan Pengembangan Sistem Air Limbah Domestik Regional;14;3206234506;2024
+5065;1.03.06.1.01;Pengelolaan dan Pengembangan Sistem Drainase yang Terhubung Langsung dengan Sungai Lintas Daerah Kabupaten/Kota dan Kawasan Strategis Provinsi;14;14767032700;2024
+5066;1.03.08.1.01;Penetapan dan Penyelenggaraan Bangunan Gedung untuk Kepentingan Strategis Daerah Provinsi;14;277626738456;2024
+5067;1.03.09.1.01;Penyelenggaraan Penataan Bangunan dan Lingkungan di Kawasan Strategis Daerah Provinsi dan Lintas Daerah Kabupaten/Kota;14;10135342728;2024
+5204;3.29.01.1.01;Perencanaan, Penganggaran, dan Evaluasi Kinerja Perangkat Daerah;36;221895440;2024
+5204;3.29.01.1.02;Administrasi Keuangan Perangkat Daerah;36;11740425264;2024
+5204;3.29.01.1.03;Administrasi Barang Milik Daerah pada Perangkat Daerah;36;75444450;2024
+5204;3.29.01.1.05;Administrasi Kepegawaian Perangkat Daerah;36;50110000;2024
+5204;3.29.01.1.06;Administrasi Umum Perangkat Daerah;36;915467521;2024
+5204;3.29.01.1.07;Pengadaan Barang Milik Daerah Penunjang Urusan Pemerintah Daerah;36;154525300;2024
+5204;3.29.01.1.08;Penyediaan Jasa Penunjang Urusan Pemerintahan Daerah;36;2555045758;2024
+5204;3.29.01.1.09;Pemeliharaan Barang Milik Daerah Penunjang Urusan Pemerintahan Daerah;36;681389725;2024
+5200;3.29.02.1.01;Penetapan Zona Konservasi Air Tanah pada Cekungan Air Tanah dalam Daerah Provinsi;36;151999700;2024
+5200;3.29.02.1.03;Penetapan Nilai Perolehan Air Tanah dalam Daerah Provinsi;36;437340500;2024
+5201;3.29.03.1.01;Penetapan Wilayah Izin Usaha Pertambangan Mineral Bukan Logam dan Batuan dalam 1 (satu) Daerah Provinsi dan Wilayah Laut sampai dengan 12 Mil;36;69903200;2024
+5201;3.29.03.1.03;Penatausahaan Izin Usaha Pertambangan Mineral Bukan Logam dan Batuan dalam rangka Penanaman Modal Dalam Negeri pada Wilayah Izin Usaha Pertambangan Daerah yang Berada dalam 1 (satu) Daerah Provinsi termasuk Wilayah Laut sampai dengan 12 Mil Laut;36;434581450;2024
+5201;3.29.03.1.04;Penatausahaan Izin Pertambangan Rakyat untuk Komoditas Mineral Logam, Batubara, Mineral Bukan Logam, dan Batuan dalam Wilayah Pertambangan Rakyat;36;45400000;2024
+5201;3.29.03.1.24;Pembinaan dan Pengawasan Pelaksanaan Izin Usaha Pertambangan;36;99999900;2024
+5202;3.29.05.1.05;Pengelolaan penyediaan Biomassa dan/atau Biogas dalam wilayah provinsi;36;142201800;2024
+5202;3.29.05.1.07;Pengelolaan aneka energi baru terbarukan berupa sinar matahari, angin, aliran dan terjunan air, gerakan dan perbedaan suhu lapisan laut dalam wilayah provinsi;36;3244162770;2024
+5202;3.29.05.1.10;Pembinaan dan pengawasan pelaksanaan Konservasi Energi yang dilakukan oleh pemangku kepentingan di tingkat daerah provinsi;36;75245300;2024
+5203;3.29.06.1.01;Penatausahaan Izin Usaha Penyediaan Tenaga Listrik Non Badan Usaha Milik Negara dan Penjualan Tenaga Listrik serta Penyewaan Jaringan kepada Penyedia Tenaga Listrik dalam Daerah Provinsi;36;165234950;2024
+5203;3.29.06.1.02;Penatausahaan Izin Operasi yang Fasilitas Instalasinya dalam Daerah Provinsi;36;171892400;2024
+5203;3.29.06.1.04;Persetujuan Harga Jual Tenaga Listrik dan Sewa Jaringan Tenaga Listrik, Rencana Usaha Penyediaan Tenaga Listrik, Penjualan Kelebihan Tenaga Listrik dari Pemegang Izin yang Ditetapkan oleh Daerah Provinsi;36;36070000;2024
+5203;3.29.06.1.05;Penatausahaan Izin Usaha Jasa Penunjang Tenaga Listrik bagi Badan Usaha Dalam Negeri/Mayoritas Sahamnya Dimiliki oleh Penanam Modal Dalam Negeri;36;38857500;2024
+5203;3.29.06.1.06;Penganggaran untuk Kelompok Masyarakat Tidak Mampu, Pembangunan Sarana Penyediaan Tenaga Listrik Belum Berkembang, Daerah Terpencil dan Perdesaan;36;3239942230;2024
+5166;2.22.01.1.01;Perencanaan, Penganggaran, dan Evaluasi Kinerja Perangkat Daerah;11;2327748150;2024
+5166;2.22.01.1.02;Administrasi Keuangan Perangkat Daerah;11;8092171966;2024
+5166;2.22.01.1.06;Administrasi Umum Perangkat Daerah;11;210605000;2024
+5166;2.22.01.1.08;Penyediaan Jasa Penunjang Urusan Pemerintahan Daerah;11;2883330860;2024
+5161;2.22.02.1.01;Pengelolaan Kebudayaan yang Masyarakat Pelakunya Lintas Daerah Kabupaten/Kota dalam 1 (satu) Daerah Provinsi;11;1274213600;2024
+5161;2.22.02.1.02;Pelestarian Kesenian Tradisional yang Masyarakat Pelakunya Lintas Kabupaten/Kota dalam Daerah Provinsi;11;1292340669;2024
+5162;2.22.03.1.01;Pembinaan Kesenian yang Masyarakat Pelakunya Lintas Daerah Kabupaten/Kota;11;432899258;2024
+5163;2.22.04.1.01;Pembinaan Sejarah Lokal Provinsi;11;217950000;2024
+5164;2.22.05.1.01;Penetapan Cagar Budaya Peringkat Provinsi;11;261080600;2024
+5164;2.22.05.1.02;Pengelolaan Cagar Budaya Peringkat Provinsi;11;865490900;2024
+5165;2.22.06.1.01;Pengelolaan Museum Provinsi;11;1771341904;2024
+5199;3.28.01.1.01;Perencanaan, Penganggaran, dan Evaluasi Kinerja Perangkat Daerah;34;478687000;2024
+5199;3.28.01.1.02;Administrasi Keuangan Perangkat Daerah;34;54951823264;2024
+5199;3.28.01.1.03;Administrasi Barang Milik Daerah pada Perangkat Daerah;34;125440000;2024
+5199;3.28.01.1.05;Administrasi Kepegawaian Perangkat Daerah;34;275060850;2024
+5199;3.28.01.1.06;Administrasi Umum Perangkat Daerah;34;1807438562;2024
+5199;3.28.01.1.07;Pengadaan Barang Milik Daerah Penunjang Urusan Pemerintah Daerah;34;1208294980;2024
+5199;3.28.01.1.08;Penyediaan Jasa Penunjang Urusan Pemerintahan Daerah;34;5813042797;2024
+5199;3.28.01.1.09;Pemeliharaan Barang Milik Daerah Penunjang Urusan Pemerintahan Daerah;34;2012639880;2024
+5195;3.28.03.1.01;Pengelolaan Rencana Tata Hutan Kesatuan Pengelolaan Hutan (KPH) Kewenangan Provinsi;34;15000000;2024
+5195;3.28.03.1.02;Rencana Pengelolaan Kesatuan Pengelolaan Hutan kecuali pada Kesatuan Pengelolaan Hutan Konservasi (KPHK);34;140026500;2024
+5195;3.28.03.1.03;Pemanfaatan Hutan di Kawasan Hutan Produksi dan Hutan Lindung;34;100000000;2024
+5195;3.28.03.1.04;Pelaksanaan Rehabilitasi di Luar Kawasan Hutan Negara;34;8116924974;2024
+5195;3.28.03.1.05;Pelaksanaan Perlindungan Hutan di Hutan Lindung dan Hutan Produksi;34;1176260428;2024
+5195;3.28.03.1.06;Pelaksanaan Pengolahan Hasil Hutan Bukan Kayu (HHBK);34;248248506;2024
+5195;3.28.03.1.07;Pelaksanaan Pengolahan Hasil Hutan Kayu dengan Kapasitas Produksi <6000 m3/Tahun;34;228171400;2024
+5195;3.28.03.1.09;Perbenihan Tanaman Hutan;34;114382000;2024
+5196;3.28.04.1.01;Pengelolaan Taman Hutan Raya (TAHURA) Provinsi;34;826391000;2024
+5196;3.28.04.1.03;Pengelolaan Kawasan Bernilai Ekosistem Penting, Daerah Penyangga Kawasan Suaka Alam dan Kawasan Pelestarian Alam;34;164112725;2024
+5197;3.28.05.1.01;Pelaksanaan Penyuluhan Kehutanan Provinsi dan Pemberdayaan Masyarakat di Bidang Kehutanan;34;3258216846;2024
+5198;3.28.06.1.01;Pelaksanaan Pengelolaan DAS Lintas Daerah Kabupaten/Kota dan dalam Daerah Kabupaten/Kota dalam 1 (satu) Daerah Provinsi;34;150000000;2024
+5177;3.25.01.1.01;Perencanaan, Penganggaran, dan Evaluasi Kinerja Perangkat Daerah;31;862903000;2024
+5177;3.25.01.1.02;Administrasi Keuangan Perangkat Daerah;31;21210972337;2024
+5177;3.25.01.1.05;Administrasi Kepegawaian Perangkat Daerah;31;262932349;2024
+5177;3.25.01.1.06;Administrasi Umum Perangkat Daerah;31;4204283549;2024
+5177;3.25.01.1.08;Penyediaan Jasa Penunjang Urusan Pemerintahan Daerah;31;7617792530;2024
+5177;3.25.01.1.09;Pemeliharaan Barang Milik Daerah Penunjang Urusan Pemerintahan Daerah;31;2042217025;2024
+5172;3.25.02.1.01;Pengelolaan Ruang Laut Sampai Dengan 12 Mil di Luar Minyak dan Gas Bumi;31;1648482245;2024
+5172;3.25.02.1.02;Penerbitan Izin Pemanfaatan Ruang Laut di Bawah 12 Mil di Luar Minyak dan Gas Bumi;31;382255625;2024
+5172;3.25.02.1.03;Pemberdayaan Masyarakat Pesisir dan Pulau-Pulau Kecil;31;240000000;2024
+5173;3.25.03.1.01;Pengelolaan Penangkapan Ikan di Wilayah Laut Sampai Dengan 12 Mil;31;10056722739;2024
+5173;3.25.03.1.02;Pengelolaan Penangkapan Ikan di Wilayah Sungai, Danau, Waduk, Rawa, dan Genangan Air Lainnya yang dapat Diusahakan Lintas Kabupaten/Kota dalam 1 (Satu) Daerah Provinsi;31;0;2024
+5173;3.25.03.1.03;Penerbitan Izin Usaha Perikanan Tangkap untuk Kapal Perikanan Berukuran di atas 10 GT sampai dengan 30 GT;31;280000000;2024
+5173;3.25.03.1.06;Penetapan Lokasi Pembangunan serta Pengelolaan Pelabuhan Perikanan Provinsi;31;13241980382;2024
+5174;3.25.04.1.05;Pengelolaan Pembudidayaan Ikan di Laut;31;1539323110;2024
+5174;3.25.04.1.06;Pengelolaan Pembudidayaan Ikan di Perairan Darat;31;7415846209;2024
+5175;3.25.05.1.01;Pengawasan Sumber Daya Kelautan dan Perikanan sampai dengan 12 Mil;31;3541517500;2024
+5175;3.25.05.1.02;Pengawasan Sumber Daya Perikanan di Wilayah Sungai, Danau, Waduk, Rawa, dan Genangan Air Lainnya yang Dapat Diusahakan Lintas Kabupaten/Kota dalam 1 (Satu) Daerah Provinsi;31;96776000;2024
+5176;3.25.06.1.01;Penerbitan Izin Usaha Pemasaran dan Pengolahan Hasil Perikanan Lintas Daerah Kabupaten/Kota dalam 1 (Satu) Daerah Provinsi;31;310000000;2024
+5176;3.25.06.1.02;Pembinaan Mutu dan Keamanan Hasil Perikanan bagi Usaha Pengolahan dan Pemasaran Skala Menengah dan Besar;31;1007521103;2024
+5176;3.25.06.1.03;Penyediaan dan Penyaluran Bahan Baku Industri Pengolahan Ikan Lintas Daerah Kabupaten/Kota dalam 1 (Satu) Daerah Provinsi;31;653354625;2024
+5124;2.12.01.1.01;Perencanaan, Penganggaran, dan Evaluasi Kinerja Perangkat Daerah;22;612903800;2024
+5124;2.12.01.1.02;Administrasi Keuangan Perangkat Daerah;22;5678739736;2024
+5124;2.12.01.1.03;Administrasi Barang Milik Daerah pada Perangkat Daerah;22;48891500;2024
+5124;2.12.01.1.05;Administrasi Kepegawaian Perangkat Daerah;22;449999750;2024
+5124;2.12.01.1.06;Administrasi Umum Perangkat Daerah;22;1310595315;2024
+5124;2.12.01.1.07;Pengadaan Barang Milik Daerah Penunjang Urusan Pemerintah Daerah;22;40373000;2024
+5124;2.12.01.1.08;Penyediaan Jasa Penunjang Urusan Pemerintahan Daerah;22;1368489444;2024
+5124;2.12.01.1.09;Pemeliharaan Barang Milik Daerah Penunjang Urusan Pemerintahan Daerah;22;816776500;2024
+5120;2.12.02.1.01;Pelayanan Pendaftaran Kependudukan ;22;199999850;2024
+5120;2.12.02.1.02;Penyelenggaraan Pendaftaran Kependudukan;22;596966700;2024
+5121;2.12.03.1.02;Penyelenggaraan Pencatatan Sipil di Provinsi;22;596961800;2024
+5122;2.12.04.1.02;Penyelenggaraan Pengelolaan Informasi Administrasi Kependudukan Provinsi;22;175510450;2024
+5122;2.12.04.1.03;Pembinaan dan Pengawasan Pengelolaan Informasi Administrasi Kependudukan Provinsi;22;357887800;2024
+5123;2.12.05.1.01;Penyediaan Profil Kependudukan;22;220715000;2024
+5056;1.02.01.1.01;Perencanaan, Penganggaran, dan Evaluasi Kinerja Perangkat Daerah;12;724390000;2024
+5056;1.02.01.1.02;Administrasi Keuangan Perangkat Daerah;12;178877668133;2024
+5056;1.02.01.1.03;Administrasi Barang Milik Daerah pada Perangkat Daerah;12;230788800;2024
+5056;1.02.01.1.05;Administrasi Kepegawaian Perangkat Daerah;12;241604000;2024
+5056;1.02.01.1.06;Administrasi Umum Perangkat Daerah;12;4155751445;2024
+5056;1.02.01.1.07;Pengadaan Barang Milik Daerah Penunjang Urusan Pemerintah Daerah;12;11496256056;2024
+5056;1.02.01.1.08;Penyediaan Jasa Penunjang Urusan Pemerintahan Daerah;12;7798891453;2024
+5056;1.02.01.1.09;Pemeliharaan Barang Milik Daerah Penunjang Urusan Pemerintahan Daerah;12;2712794836;2024
+5056;1.02.01.1.10;Peningkatan Pelayanan BLUD;12;263959729451;2024
+5052;1.02.02.1.01;Penyediaan Fasilitas Pelayanan, Sarana, Prasarana dan Alat Kesehatan untuk UKP Rujukan, UKM dan UKM Rujukan Tingkat Daerah Provinsi;12;22448310975;2024
+5052;1.02.02.1.02;Penyediaan Layanan Kesehatan untuk UKP Rujukan, UKM dan UKM Rujukan Tingkat Daerah Provinsi;12;49485773264;2024
+5052;1.02.02.1.03;Penyelenggaraan Sistem Informasi Kesehatan Secara Terintegrasi;12;709999678;2024
+5052;1.02.02.1.04;Penerbitan Izin Rumah Sakit Kelas B dan Fasilitas Pelayanan Kesehatan Tingkat Daerah Provinsi;12;640684000;2024
+5053;1.02.03.1.01;Perencanaan Kebutuhan Sumber Daya Manusia Kesehatan untuk UKM dan UKP Provinsi;12;279999500;2024
+5053;1.02.03.1.02;Pengembangan Mutu dan Peningkatan Kompetensi Teknis Sumber Daya Manusia Kesehatan Tingkat Daerah Provinsi;12;279999200;2024
+5054;1.02.04.1.01;Penerbitan Pengakuan Pedagang Besar Farmasi (PBF) Cabang dan Cabang Penyalur Alat Kesehatan (PAK);12;609999850;2024
+5054;1.02.04.1.02;Penerbitan Izin Usaha Kecil Obat Tradisional (UKOT);12;0;2024
+5055;1.02.05.1.01;Advokasi, Pemberdayaan, Kemitraan, Peningkatan Peran Serta Masyarakat dan Lintas Sektor Tingkat Daerah Provinsi ;12;280000150;2024
+5055;1.02.05.1.02;Pelaksanaan Komunikasi Informasi dan Edukasi (KIE) Perilaku Hidup Bersih dan Sehat dalam rangka Promotif Preventif Tingkat Daerah Provinsi;12;160000200;2024
+5055;1.02.05.1.03;Pengembangan dan Pelaksanaan Upaya Kesehatan Bersumber Daya Masyarakat (UKBM) Tingkat Daerah Provinsi;12;160000000;2024
+5140;2.16.01.1.01;Perencanaan, Penganggaran, dan Evaluasi Kinerja Perangkat Daerah;26;237397700;2024
+5140;2.16.01.1.02;Administrasi Keuangan Perangkat Daerah;26;8453753407;2024
+5140;2.16.01.1.03;Administrasi Barang Milik Daerah pada Perangkat Daerah;26;90000000;2024
+5140;2.16.01.1.05;Administrasi Kepegawaian Perangkat Daerah;26;346346290;2024
+5140;2.16.01.1.06;Administrasi Umum Perangkat Daerah;26;1321378625;2024
+5140;2.16.01.1.07;Pengadaan Barang Milik Daerah Penunjang Urusan Pemerintah Daerah;26;1556456070;2024
+5140;2.16.01.1.08;Penyediaan Jasa Penunjang Urusan Pemerintahan Daerah;26;249998922;2024
+5140;2.16.01.1.09;Pemeliharaan Barang Milik Daerah Penunjang Urusan Pemerintahan Daerah;26;1014930000;2024
+5138;2.16.02.1.01;Pengelolaan Informasi dan Komunikasi Publik Pemerintah Daerah Provinsi;26;5196557650;2024
+5139;2.16.03.1.01;Pengelolaan Nama Domain yang Telah ditetapkan oleh Pemerintah Pusat dan Sub Domain di Lingkup Pemerintah Daerah Provinsi;26;5240303750;2024
+5139;2.16.03.1.02;Pengelolaan E-government di Lingkup Pemerintah Daerah Provinsi;26;1167235716;2024
+5141;2.20.02.1.01;Penyelenggaraan Statistik Sektoral di Lingkup Daerah Provinsi;26;681310900;2024
+5142;2.21.02.1.01;Penyelenggaraan Persandian untuk Pengamanan Informasi Pemerintah Daerah Provinsi;26;557906900;2024
+5142;2.21.02.1.02;Penetapan Pola Hubungan Komunikasi Sandi antar Perangkat Daerah Provinsi;26;42507000;2024
+5150;2.17.01.1.01;Perencanaan, Penganggaran, dan Evaluasi Kinerja Perangkat Daerah;27;410390750;2024
+5150;2.17.01.1.02;Administrasi Keuangan Perangkat Daerah;27;11600132009;2024
+5150;2.17.01.1.03;Administrasi Barang Milik Daerah pada Perangkat Daerah;27;59192800;2024
+5150;2.17.01.1.05;Administrasi Kepegawaian Perangkat Daerah;27;123350950;2024
+5150;2.17.01.1.06;Administrasi Umum Perangkat Daerah;27;630620027;2024
+5150;2.17.01.1.07;Pengadaan Barang Milik Daerah Penunjang Urusan Pemerintah Daerah;27;20000000;2024
+5150;2.17.01.1.08;Penyediaan Jasa Penunjang Urusan Pemerintahan Daerah;27;687613360;2024
+5150;2.17.01.1.09;Pemeliharaan Barang Milik Daerah Penunjang Urusan Pemerintahan Daerah;27;422910000;2024
+5143;2.17.02.1.01;Penerbitan Izin Usaha Simpan Pinjam untuk Koperasi dengan Wilayah Keanggotaan Lintas Daerah Kabupaten/Kota dalam 1 (satu) Daerah Provinsi;27;29999450;2024
+5143;2.17.02.1.02;Penerbitan Izin Pembukaan Kantor Cabang, Cabang Pembantu dan Kantor Kas Koperasi Simpan Pinjam untuk Koperasi dengan Wilayah Keanggotaan Lintas Daerah Kabupaten/Kota dalam 1 (satu) Daerah Provinsi;27;89999350;2024
+5144;2.17.03.1.01;Pemeriksaan dan Pengawasan Koperasi yang Wilayah Keanggotaannya Lintas Daerah Kabupaten/Kota dalam 1 (satu) Daerah Provinsi;27;139175050;2024
+5144;2.17.03.1.02;Pemeriksaan dan Pengawasan Koperasi Simpan Pinjam/Unit Simpan Pinjam Koperasi yang Wilayah Keanggotaannya Lintas Daerah Kabupaten/Kota dalam 1 (satu) Daerah Provinsi;27;50023250;2024
+5145;2.17.04.1.01;Penilaian Kesehatan Koperasi Simpan Pinjam/Unit Simpan Pinjam Koperasi yang Wilayah Keanggotaanya Lintas Daerah Kabupaten/Kota dalam 1 (satu) Daerah Provinsi;27;164999250;2024
+5146;2.17.05.1.01;Pendidikan dan Latihan Perkoperasian bagi Koperasi yang Wilayah Lintas Daerah Kabupaten/Kota dalam 1 (satu) Daerah Provinsi;27;4510149974;2024
+5147;2.17.06.1.01;Pemberdayaan dan Perlindungan Koperasi yang Keanggotaannya Lintas Daerah Kabupaten/Kota dalam 1 (satu) Daerah Provinsi;27;593569600;2024
+5148;2.17.07.1.01;Pemberdayaan Usaha Kecil yang dilakukan Melalui Pendataan, Kemitraan, Kemudahan Perijinan, Penguatan Kelembagaan dan Koordinasi Dengan Para Pemangku Kepentingan;27;461759250;2024
+5149;2.17.08.1.01;Pengembangan Usaha Kecil dengan Orientasi Peningkatan Skala Usaha Menjadi Usaha Menengah;27;526206050;2024
+5119;2.11.01.1.01;Perencanaan, Penganggaran, dan Evaluasi Kinerja Perangkat Daerah;21;276020450;2024
+5119;2.11.01.1.02;Administrasi Keuangan Perangkat Daerah;21;8669887782;2024
+5119;2.11.01.1.03;Administrasi Barang Milik Daerah pada Perangkat Daerah;21;14040700;2024
+5119;2.11.01.1.05;Administrasi Kepegawaian Perangkat Daerah;21;94215000;2024
+5119;2.11.01.1.06;Administrasi Umum Perangkat Daerah;21;867436217;2024
+5119;2.11.01.1.07;Pengadaan Barang Milik Daerah Penunjang Urusan Pemerintah Daerah;21;271588580;2024
+5119;2.11.01.1.08;Penyediaan Jasa Penunjang Urusan Pemerintahan Daerah;21;421026999;2024
+5119;2.11.01.1.09;Pemeliharaan Barang Milik Daerah Penunjang Urusan Pemerintahan Daerah;21;1264278800;2024
+5109;2.11.02.1.01;Rencana Perlindungan dan Pengelolaan Lingkungan Hidup (RPPLH) Provinsi;21;65398750;2024
+5109;2.11.02.1.02;Penyelenggaraan Kajian Lingkungan Hidup Strategis (KLHS) Provinsi;21;508853800;2024
+5110;2.11.03.1.01;Pencegahan Pencemaran dan/atau Kerusakan Lingkugan Hidup;21;516288948;2024
+5110;2.11.03.1.02;Penanggulangan Pencemaran dan/atau Kerusakan Lingkungan Hidup;21;45734710;2024
+5110;2.11.03.1.03;Pemulihan Pencemaran dan/atau Kerusakan Lingkungan Hidup;21;262595000;2024
+5111;2.11.04.1.01;Pengelolaan Keanekaragaman Hayati Provinsi;21;99999800;2024
+5112;2.11.05.1.01;Pengumpulan Limbah B3 Lintas Daerah Kabupaten/Kota dalam 1 (satu) Daerah Provinsi;21;135044750;2024
+5113;2.11.06.1.01;Pembinaan dan Pengawasan Izin Lingkungan dan Izin PPLH yang diterbitkan oleh Pemerintah Daerah Provinsi;21;233668200;2024
+5114;2.11.07.1.02;Peningkatan Kapasitas MHA dan Kearifan Lokal, Pengetahuan Tradisional dan Hak MHA yang terkait dengan PPLH;21;39999850;2024
+5115;2.11.08.1.01;Penyelenggaraan Pendidikan, Pelatihan, dan Penyuluhan Lingkungan Hidup untuk Lembaga KeMasyarakatan Tingkat Daerah Provinsi;21;149423700;2024
+5116;2.11.09.1.01;Pemberian Penghargaan Lingkungan Hidup Tingkat Daerah Provinsi;21;35000500;2024
+5117;2.11.10.1.01;Penyelesaian Pengaduan Masyarakat di Bidang Perlindungan dan Pengelolaan Lingkungan Hidup (PPLH) Provinsi;21;45938300;2024
+5118;2.11.11.1.01;Penanganan Sampah di TPA/TPST Regional;21;312058450;2024
+5108;2.09.01.1.01;Perencanaan, Penganggaran, dan Evaluasi Kinerja Perangkat Daerah;19;822995775;2024
+5108;2.09.01.1.02;Administrasi Keuangan Perangkat Daerah;19;10413279109;2024
+5108;2.09.01.1.03;Administrasi Barang Milik Daerah pada Perangkat Daerah;19;77999350;2024
+5108;2.09.01.1.06;Administrasi Umum Perangkat Daerah;19;799207064;2024
+5108;2.09.01.1.07;Pengadaan Barang Milik Daerah Penunjang Urusan Pemerintah Daerah;19;1033766053;2024
+5108;2.09.01.1.08;Penyediaan Jasa Penunjang Urusan Pemerintahan Daerah;19;517351560;2024
+5108;2.09.01.1.09;Pemeliharaan Barang Milik Daerah Penunjang Urusan Pemerintahan Daerah;19;979659800;2024
+5104;2.09.02.1.01;Penyediaan Infrastruktur dan Seluruh Pendukung Kemandirian Pangan pada berbagai Sektor sesuai Kewenangan Daerah Provinsi;19;6193137681;2024
+5105;2.09.03.1.01;Penyediaan dan Penyaluran Pangan Pokok atau Pangan Lainnya sesuai dengan Kebutuhan Daerah Provinsi dalam rangka Stabilisasi Pasokan dan Harga Pangan;19;2027233650;2024
+5105;2.09.03.1.02;Pengelolaan dan Keseimbangan Cadangan Pangan Provinsi;19;3228033000;2024
+5105;2.09.03.1.04;Promosi Pencapaian Target Konsumsi Pangan Perkapita/Tahun sesuai dengan Angka Kecukupan Gizi Melalui Media Provinsi;19;3720693508;2024
+5106;2.09.04.1.01;Penyusunan Peta Kerentanan dan Ketahanan Pangan kewenangan Provinsi ;19;145066500;2024
+5106;2.09.04.1.02;Penanganan Kerawanan Pangan Kewenangan Provinsi ;19;4544919451;2024
+5107;2.09.05.1.01;Pelaksanaan Pengawasan Keamanan Pangan Segar Distribusi Lintas Daerah Kabupaten/Kota;19;932365600;2024
+5182;3.26.01.1.01;Perencanaan, Penganggaran, dan Evaluasi Kinerja Perangkat Daerah;20;286275950;2024
+5182;3.26.01.1.02;Administrasi Keuangan Perangkat Daerah;20;8237351516;2024
+5182;3.26.01.1.03;Administrasi Barang Milik Daerah pada Perangkat Daerah;20;112297260;2024
+5182;3.26.01.1.05;Administrasi Kepegawaian Perangkat Daerah;20;7900000;2024
+5182;3.26.01.1.06;Administrasi Umum Perangkat Daerah;20;408529345;2024
+5182;3.26.01.1.07;Pengadaan Barang Milik Daerah Penunjang Urusan Pemerintah Daerah;20;701591000;2024
+5182;3.26.01.1.08;Penyediaan Jasa Penunjang Urusan Pemerintahan Daerah;20;2205401769;2024
+5182;3.26.01.1.09;Pemeliharaan Barang Milik Daerah Penunjang Urusan Pemerintahan Daerah;20;281504200;2024
+5178;3.26.02.1.01;Pengelolaan Daya Tarik Wisata Provinsi;20;136150363;2024
+5178;3.26.02.1.02;Pengelolaan Kawasan Strategis Pariwisata Provinsi;20;2121374222;2024
+5178;3.26.02.1.03;Pengelolaan Destinasi Pariwisata Provinsi;20;354109091;2024
+5178;3.26.02.1.04;Penetapan Tanda Daftar Usaha Pariwisata Lintas Daerah Kabupaten/Kota dalam 1 (Satu) Daerah Provinsi;20;0;2024
+5179;3.26.03.1.01;Pemasaran Pariwisata Dalam dan Luar Negeri Daya Tarik, Destinasi dan Kawasan Strategis Pariwisata Provinsi;20;1358846800;2024
+5180;3.26.04.1.01;Penyediaan Sarana dan Prasarana Kota Kreatif;20;778887972;2024
+5180;3.26.04.1.02;Pengembangan Ekosistem Ekonomi Kreatif ;20;291892028;2024
+5181;3.26.05.1.01;Pelaksanaan Peningkatan Kapasitas Sumber Daya Manusia Pariwisata dan Ekonomi Kreatif Tingkat Lanjutan;20;403608365;2024
+5181;3.26.05.1.02;Pengembangan Kapasitas Pelaku Ekonomi Kreatif;20;296391635;2024
+5129;2.13.01.1.01;Perencanaan, Penganggaran, dan Evaluasi Kinerja Perangkat Daerah;23;119346650;2024
+5129;2.13.01.1.02;Administrasi Keuangan Perangkat Daerah;23;10483027803;2024
+5129;2.13.01.1.03;Administrasi Barang Milik Daerah pada Perangkat Daerah;23;49809900;2024
+5129;2.13.01.1.05;Administrasi Kepegawaian Perangkat Daerah;23;53704850;2024
+5129;2.13.01.1.06;Administrasi Umum Perangkat Daerah;23;960915754;2024
+5129;2.13.01.1.07;Pengadaan Barang Milik Daerah Penunjang Urusan Pemerintah Daerah;23;266997350;2024
+5129;2.13.01.1.08;Penyediaan Jasa Penunjang Urusan Pemerintahan Daerah;23;457629560;2024
+5129;2.13.01.1.09;Pemeliharaan Barang Milik Daerah Penunjang Urusan Pemerintahan Daerah;23;555719100;2024
+5125;2.13.02.1.01;Penatausahaan Penetapan Susunan Kelembagaan, Pengisian Jabatan, dan Masa Jabatan Kepala Desa dan Desa Adat ;23;2820522580;2024
+5126;2.13.03.1.01;Fasilitasi Kerja Sama antar desa yang Menjadi Kewenangan Provinsi;23;345000050;2024
+5127;2.13.04.1.01;Pembinaan dan Pengawasan Penyelenggaraan Pemerintahan Desa;23;2484320537;2024
+5128;2.13.05.1.01;Pemberdayaan Lembaga keMasyarakatan yang Bergerak di Bidang Pemberdayaan Desa dan Lembaga Adat Tingkat Daerah Provinsi serta Pemberdayaan Masyarakat Hukum Adat yang Masyarakat Pelakunya Hukum Adat yang Sama Berada di Lintas Daerah Kabupaten/Kota;23;6934171827;2024
+5103;2.08.01.1.01;Perencanaan, Penganggaran, dan Evaluasi Kinerja Perangkat Daerah;18;280426200;2024
+5103;2.08.01.1.02;Administrasi Keuangan Perangkat Daerah;18;10352948240;2024
+5103;2.08.01.1.05;Administrasi Kepegawaian Perangkat Daerah;18;88800090;2024
+5103;2.08.01.1.06;Administrasi Umum Perangkat Daerah;18;384597700;2024
+5103;2.08.01.1.07;Pengadaan Barang Milik Daerah Penunjang Urusan Pemerintah Daerah;18;664665500;2024
+5103;2.08.01.1.08;Penyediaan Jasa Penunjang Urusan Pemerintahan Daerah;18;407790800;2024
+5103;2.08.01.1.09;Pemeliharaan Barang Milik Daerah Penunjang Urusan Pemerintahan Daerah;18;662234472;2024
+5097;2.08.02.1.01;Pelembagaan Pengarusutamaan Gender (PUG) pada Lembaga Pemerintah Kewenangan Provinsi;18;129547550;2024
+5097;2.08.02.1.02;Pemberdayaan Perempuan Bidang Politik, Hukum, Sosial, dan Ekonomi pada Organisasi KeMasyarakatan Kewenangan Provinsi;18;80402000;2024
+5097;2.08.02.1.03;Penguatan dan Pengembangan Lembaga Penyedia Layanan Pemberdayaan Perempuan Kewenangan Provinsi;18;99999800;2024
+5098;2.08.03.1.01;Pencegahan Kekerasan terhadap Perempuan yang melibatkan para Pihak Lingkup Daerah Provinsi dan Lintas Daerah Kabupaten/Kota;18;369674500;2024
+5098;2.08.03.1.02;Penyediaan Layanan Rujukan Lanjutan bagi Perempuan Korban Kekerasan yang memerlukan Koordinasi Tingkat Daerah Provinsi dan Lintas Daerah Kabupaten/Kota;18;360411300;2024
+5098;2.08.03.1.03;Penguatan dan Pengembangan Lembaga Penyedia Layanan Perlindungan Perempuan Kewenangan Provinsi;18;68898850;2024
+5099;2.08.04.1.01;Peningkatan Kualitas Keluarga dalam Mewujudkan Kesetaraan Gender (KG) dan Hak Anak Kewenangan Provinsi;18;1955049350;2024
+5099;2.08.04.1.02;Penguatan dan Pengembangan Lembaga Penyedia Layanan Peningkatan Kualitas Keluarga dalam Mewujudkan KG dan Hak Anak Kewenangan Provinsi ;18;399999500;2024
+5099;2.08.04.1.03;Penyediaan Layanan bagi Keluarga dalam Mewujudkan KG dan Hak Anak yang Wilayah Kerjanya Lintas Daerah Kabupaten/Kota;18;99999900;2024
+5100;2.08.05.1.01;Pengumpulan, Pengolahan Analisis dan Penyajian Data Gender dan Anak dalam Kelembagaan Data di Tingkat Daerah Provinsi;18;300000000;2024
+5101;2.08.06.1.01;Pelembagaan PHA pada Lembaga Pemerintah, Non Pemerintah, dan Dunia Usaha Kewenangan Provinsi;18;134000000;2024
+5101;2.08.06.1.02;Penguatan dan Pengembangan Lembaga Penyedia Layanan Peningkatan Kualitas Hidup Anak Kewenangan Provinsi;18;449490750;2024
+5102;2.08.07.1.01;Pencegahan Kekerasan terhadap Anak yang Melibatkan para Pihak Lingkup Daerah Provinsi dan Lintas Daerah Kabupaten/Kota;18;256528000;2024
+5102;2.08.07.1.02;Penyediaan Layanan bagi Anak yang Memerlukan Perlindungan Khusus yang Memerlukan Koordinasi Tingkat Daerah Provinsi;18;169910700;2024
+5102;2.08.07.1.03;Penguatan dan Pengembangan Lembaga Penyedia Layanan bagi Anak yang Memerlukan Perlindungan Khusus Tingkat Daerah Provinsi dan Lintas Daerah Kabupaten/Kota;18;590418700;2024
+5160;2.19.01.1.01;Perencanaan, Penganggaran, dan Evaluasi Kinerja Perangkat Daerah;29;373509600;2024
+5160;2.19.01.1.02;Administrasi Keuangan Perangkat Daerah;29;8805990071;2024
+5160;2.19.01.1.03;Administrasi Barang Milik Daerah pada Perangkat Daerah;29;89995050;2024
+5160;2.19.01.1.05;Administrasi Kepegawaian Perangkat Daerah;29;27986450;2024
+5160;2.19.01.1.06;Administrasi Umum Perangkat Daerah;29;75108930;2024
+5160;2.19.01.1.07;Pengadaan Barang Milik Daerah Penunjang Urusan Pemerintah Daerah;29;0;2024
+5160;2.19.01.1.08;Penyediaan Jasa Penunjang Urusan Pemerintahan Daerah;29;2391659950;2024
+5160;2.19.01.1.09;Pemeliharaan Barang Milik Daerah Penunjang Urusan Pemerintahan Daerah;29;460930000;2024
+5157;2.19.02.1.01;Penyadaran, Pemberdayaan, dan Pengembangan Pemuda dan Kepemudaan Kewenangan Provinsi;29;986140776;2024
+5157;2.19.02.1.02;Pemberdayaan dan Pengembangan Organisasi Kepemudaan Tingkat Daerah Provinsi;29;70000000;2024
+5158;2.19.03.1.01;Pembinaan dan Pengembangan Olahraga Pendidikan pada Jenjang Pendidikan yang Menjadi Kewenangan Daerah Provinsi;29;404999995;2024
+5158;2.19.03.1.02;Penyelenggaraan Kejuaraan Olahraga;29;1649998913;2024
+5158;2.19.03.1.03;Pembinaan dan Pengembangan Olahraga Prestasi Tingkat Nasional;29;274999510;2024
+5158;2.19.03.1.04;Pembinaan dan Pengembangan Organisasi Olahraga;29;25531999800;2024
+5159;2.19.04.1.01;Pembinaan dan Pengembangan Organisasi Kepramukaan;29;1020000000;2024
+5156;2.18.01.1.01;Perencanaan, Penganggaran, dan Evaluasi Kinerja Perangkat Daerah;28;373807113;2024
+5156;2.18.01.1.02;Administrasi Keuangan Perangkat Daerah;28;11931483469;2024
+5156;2.18.01.1.03;Administrasi Barang Milik Daerah pada Perangkat Daerah;28;79554300;2024
+5156;2.18.01.1.05;Administrasi Kepegawaian Perangkat Daerah;28;99675073;2024
+5156;2.18.01.1.06;Administrasi Umum Perangkat Daerah;28;330316954;2024
+5156;2.18.01.1.07;Pengadaan Barang Milik Daerah Penunjang Urusan Pemerintah Daerah;28;282237480;2024
+5156;2.18.01.1.08;Penyediaan Jasa Penunjang Urusan Pemerintahan Daerah;28;930770659;2024
+5156;2.18.01.1.09;Pemeliharaan Barang Milik Daerah Penunjang Urusan Pemerintahan Daerah;28;306506800;2024
+5151;2.18.02.1.01;Penetapan Pemberian Fasilitas/Insentif dibidang Penanaman Modal yang Menjadi Kewenangan Daerah Provinsi;28;110639500;2024
+5151;2.18.02.1.02;Pembuatan Peta Potensi Investasi Provinsi;28;564460650;2024
+5152;2.18.03.1.01;Penyelenggaraan Promosi Penanaman Modal yang Menjadi Kewenangan Daerah Provinsi;28;601522535;2024
+5153;2.18.04.1.01;Penanaman Modal yang Ruang Lingkupnya Lintas Daerah Kabupaten/Kota;28;400999425;2024
+5153;2.18.04.1.02;Penanaman Modal yang Menurut Ketentuan Peraturan Perundangan-Undangan Menjadi Kewenangan Daerah Provinsi;28;409124290;2024
+5154;2.18.05.1.01;Pengendalian Pelaksanaan Penanaman Modal yang Menjadi Kewenangan Daerah Provinsi;28;1405925500;2024
+5155;2.18.06.1.01;Urusan Pengelolaan Data dan Informasi Perizinan dan Non Perizinan Penanaman Modal yang Terintegrasi pada Tingkat Daerah Provinsi;28;267973220;2024
+5051;1.01.01.1.01;Perencanaan, Penganggaran, dan Evaluasi Kinerja Perangkat Daerah;10;2948520435;2024
+5051;1.01.01.1.02;Administrasi Keuangan Perangkat Daerah;10;836764540121;2024
+5051;1.01.01.1.03;Administrasi Barang Milik Daerah pada Perangkat Daerah;10;372999650;2024
+5051;1.01.01.1.06;Administrasi Umum Perangkat Daerah;10;3255955915;2024
+5051;1.01.01.1.08;Penyediaan Jasa Penunjang Urusan Pemerintahan Daerah;10;8379872309;2024
+5051;1.01.01.1.09;Pemeliharaan Barang Milik Daerah Penunjang Urusan Pemerintahan Daerah;10;699794380;2024
+5048;1.01.02.1.01;Pengelolaan Pendidikan Sekolah Menengah Atas;10;222338092333;2024
+5048;1.01.02.1.02;Pengelolaan Pendidikan Sekolah Menengah Kejuruan;10;230312386504;2024
+5048;1.01.02.1.03;Pengelolaan Pendidikan Khusus;10;16075800145;2024
+5049;1.01.03.1.01;Penetapan Kurikulum Muatan Lokal Pendidikan Menengah;10;106984400;2024
+5050;1.01.04.1.01;Pemindahan Pendidik dan Tenaga Kependidikan Lintas Kabupaten/Kota dalam 1 (Satu) Provinsi;10;1088135550;2024
+5133;2.14.01.1.01;Perencanaan, Penganggaran, dan Evaluasi Kinerja Perangkat Daerah;24;27044650;2024
+5133;2.14.01.1.02;Administrasi Keuangan Perangkat Daerah;24;7840740843;2024
+5133;2.14.01.1.05;Administrasi Kepegawaian Perangkat Daerah;24;172839030;2024
+5133;2.14.01.1.06;Administrasi Umum Perangkat Daerah;24;1723145252;2024
+5133;2.14.01.1.07;Pengadaan Barang Milik Daerah Penunjang Urusan Pemerintah Daerah;24;166358900;2024
+5133;2.14.01.1.08;Penyediaan Jasa Penunjang Urusan Pemerintahan Daerah;24;346928966;2024
+5133;2.14.01.1.09;Pemeliharaan Barang Milik Daerah Penunjang Urusan Pemerintahan Daerah;24;320600000;2024
+5130;2.14.02.1.01;Pemaduan dan Sinkronisasi Kebijakan Pemerintah Pusat dengan Pemerintah Daerah Provinsi dalam rangka Pengendalian Kuantitas Penduduk;24;223763700;2024
+5130;2.14.02.1.02;Pemetaan Perkiraan Pengendalian Penduduk Cakupan Daerah Provinsi;24;223883750;2024
+5131;2.14.03.1.01;Pengembangan Desain Program, Pengelolaan dan Pelaksanaan Advokasi, Komunikasi, Informasi dan Edukasi (KIE) Pengendalian Penduduk dan Keluarga Berencana (KB) Sesuai Kearifan Budaya Lokal;24;222833654;2024
+5131;2.14.03.1.02;Pemberdayaan dan Peningkatan Peran serta Organisasi Kemasyarakatan Tingkat Daerah Provinsi dalam Pengelolaan Pelayanan dan Pembinaan Kesertaan Ber-KB;24;459649450;2024
+5132;2.14.04.1.01;Pengelolaan Pelaksanaan Desain Program Pembangunan Keluarga Melalui Pembinaan Ketahanan dan Kesejahteraan Keluarga;24;879517550;2024
+5132;2.14.04.1.02;Pemberdayaan dan Peningkatan Peran serta Organisasi KeMasyarakatan Tingkat Daerah Provinsi dalam Pembangunan Keluarga Melalui Pembinaan Ketahanan dan Kesejahteraan Keluarga;24;99999882;2024
+5137;2.15.01.1.01;Perencanaan, Penganggaran, dan Evaluasi Kinerja Perangkat Daerah;25;280363550;2024
+5137;2.15.01.1.02;Administrasi Keuangan Perangkat Daerah;25;12411130351;2024
+5137;2.15.01.1.05;Administrasi Kepegawaian Perangkat Daerah;25;114840000;2024
+5137;2.15.01.1.06;Administrasi Umum Perangkat Daerah;25;675361273;2024
+5137;2.15.01.1.07;Pengadaan Barang Milik Daerah Penunjang Urusan Pemerintah Daerah;25;302658021;2024
+5137;2.15.01.1.08;Penyediaan Jasa Penunjang Urusan Pemerintahan Daerah;25;1485998516;2024
+5137;2.15.01.1.09;Pemeliharaan Barang Milik Daerah Penunjang Urusan Pemerintahan Daerah;25;786120000;2024
+5134;2.15.02.1.02;Penyediaan Perlengkapan Jalan di Jalan Provinsi;25;2720326385;2024
+5134;2.15.02.1.03;Pengelolaan Terminal Penumpang Tipe B;25;287118206;2024
+5134;2.15.02.1.05;Pelaksanaan Manajemen dan Rekayasa Lalu Lintas untuk Jaringan Jalan Provinsi;25;102900000;2024
+5134;2.15.02.1.06;Persetujuan Hasil Analisis Dampak Lalu Lintas (Andalalin) untuk Jalan Provinsi;25;69066100;2024
+5134;2.15.02.1.07;Audit dan Inspeksi Keselamatan LLAJ di Jalan;25;709671859;2024
+5134;2.15.02.1.10;Penetapan Rencana Umum Jaringan Trayek Antarkota dalam Daerah Provinsi dan Perkotaan yang Melampaui Batas 1 (satu) Daerah Kabupaten/Kota;25;10824000;2024
+5135;2.15.03.1.01;Penerbitan Izin Usaha Angkutan Laut bagi Badan Usaha yang Berdomisili dalam Wilayah dan Beroperasi pada Lintas Pelabuhan antar Daerah Kabupaten/Kota dalam Wilayah Daerah Provinsi;25;73745350;2024
+5135;2.15.03.1.02;Penerbitan Izin Usaha Angkutan Laut Pelayaran Rakyat bagi Orang Perorangan atau Badan Usaha yang Berdomisili dan yang Beroperasi pada Lintas Pelabuhan antar Daerah Kabupaten/Kota dalam Daerah Provinsi, Pelabuhan antar Daerah Provinsi, dan Pelabuhan Internasional;25;12499750;2024
+5135;2.15.03.1.03;Penerbitan Izin Trayek Penyelenggaraan Angkutan Sungai dan Danau untuk Kapal yang Melayani Trayek antar Daerah Kabupaten/Kota dalam Daerah Provinsi yang Bersangkutan;25;43416500;2024
+5135;2.15.03.1.05;Penetapan Lintas Penyeberangan dan Persetujuan Pengoperasian untuk Kapal yang Melayani Penyeberangan Lintas Pelabuhan antar Daerah Kabupaten/Kota dalam 1 (satu) Daerah Provinsi;25;48264700;2024
+5135;2.15.03.1.06;Penerbitan Izin Usaha Jasa Terkait Berupa Bongkar Muat Barang, Jasa Pengurusan Transportasi, Angkutan Perairan Pelabuhan, Penyewaan Peralatan Angkutan Laut atau Peralatan Jasa Terkait Dengan Angkutan Laut, Tally Mandiri, dan Depo Peti Kemas;25;39999200;2024
+5135;2.15.03.1.07;Penetapan Tarif Angkutan Penyeberangan Penumpang Kelas Ekonomi dan Kendaraan Beserta Muatannya pada Lintas Penyeberangan antar Daerah Kabupaten/Kota dalam Daerah Provinsi;25;34563450;2024
+5135;2.15.03.1.09;Pembangunan, Penerbitan Izin Pembangunan dan Pengoperasian Pelabuhan Pengumpan Regional;25;143484350;2024
+5135;2.15.03.1.10;Pembangunan dan Penerbitan Izin Pelabuhan Sungai dan Danau yang Melayani Trayek Lintas Daerah Kabupaten/Kota dalam 1 (satu) Daerah Provinsi;25;24804493715;2024
+5136;2.15.05.1.02;Penerbitan Izin Usaha, Izin Pembangunan dan Izin Operasi Prasarana Perkeretaapian Umum yang Jaringan Jalurnya Melintasi Batas Daerah;25;14999900;2024
+5211;3.30.01.1.01;Perencanaan, Penganggaran, dan Evaluasi Kinerja Perangkat Daerah;35;658460300;2024
+5211;3.30.01.1.02;Administrasi Keuangan Perangkat Daerah;35;15568497683;2024
+5211;3.30.01.1.03;Administrasi Barang Milik Daerah pada Perangkat Daerah;35;255093700;2024
+5211;3.30.01.1.05;Administrasi Kepegawaian Perangkat Daerah;35;172493100;2024
+5211;3.30.01.1.06;Administrasi Umum Perangkat Daerah;35;708479606;2024
+5211;3.30.01.1.07;Pengadaan Barang Milik Daerah Penunjang Urusan Pemerintah Daerah;35;2303797130;2024
+5211;3.30.01.1.08;Penyediaan Jasa Penunjang Urusan Pemerintahan Daerah;35;1036807626;2024
+5211;3.30.01.1.09;Pemeliharaan Barang Milik Daerah Penunjang Urusan Pemerintahan Daerah;35;922145200;2024
+5205;3.30.02.1.02;Penerbitan Surat Izin Usaha Perdagangan Bahan Berbahaya Pengecer Terdaftar, Pemeriksaan Sarana Distribusi Bahan Berbahaya, dan Pengawasan Distribusi, Pengemasan dan Pelabelan Bahan Berbahaya di Tingkat Daerah Provinsi;35;72809000;2024
+5205;3.30.02.1.04;Penerbitan Surat Keterangan Asal (SKA) bagi Daerah Provinsi yang Telah Ditetapkan Sebagai Instansi Penerbit SKA dan Angka Pengenal Importir (API);35;266500900;2024
+5206;3.30.03.1.01;Pembangunan dan Pengelolaan Pusat Distribusi Regional dan Pusat Distribusi Provinsi serta Pasar Lelang Komoditas;35;145461700;2024
+5207;3.30.04.1.01;Menjamin Ketersediaan Barang Kebutuhan Pokok dan Barang Penting di Tingkat Daerah Provinsi;35;79266100;2024
+5207;3.30.04.1.02;Pengendalian Harga, Informasi Ketersediaan Stok Barang Kebutuhan Pokok dan Barang Penting pada Pelaku Usaha Distribusi Barang Lintas Kabupaten/Kota yang Terintegrasi dalam Sistem Informasi Perdagangan ;35;1726442750;2024
+5207;3.30.04.1.03;Pengawasan Pupuk dan Pestisida Tingkat Daerah Provinsi dalam Melakukan Pelaksanaan Pengadaan, Penyaluran dan Penggunaan Pupuk Bersubsidi di Wilayah Kerjanya;35;49750000;2024
+5208;3.30.05.1.01;Penyelenggaraan Promosi Dagang melalui Pameran Dagang dan Misi Dagang bagi Produk Ekspor Unggulan yang terdapat pada lebih dari 1 (satu) Daerah Kabupaten/Kota dalam Provinsi;35;737239900;2024
+5209;3.30.06.1.01;Pelaksanaan Perlindungan Konsumen di Seluruh Daerah Kabupaten/Kota;35;996504850;2024
+5209;3.30.06.1.02;Pelaksanaan Pengujian dan Sertifikasi Mutu Produk di Seluruh Daerah Kabupaten/Kota;35;566903615;2024
+5209;3.30.06.1.03;Pelaksanaan Pengawasan Barang Beredar dan/atau Jasa di Seluruh Daerah Kabupaten/Kota;35;198914800;2024
+5210;3.30.07.1.02;Pelaksanaan Pemasaran Penggunaan Produk Dalam Negeri;35;203081750;2024
+5210;3.30.07.1.03;Pelaksanaan Peningkatan Penggunaan Produk Dalam Negeri;35;48472000;2024
+5212;3.31.02.1.01;Penyusunan, Penerapan, dan Evaluasi Rencana Pembangunan Industri Provinsi;35;3121847182;2024
+5213;3.31.03.1.01;Penerbitan Izin Usaha Industri (IUI), Izin Perluasan Usaha Industri (IPUI), Izin Usaha Kawasan Industri (IUKI), dan Izin Perluasan Kawasan Industri (IPKI) Kewenangan Provinsi;35;247829900;2024
+5214;3.31.04.1.01;Penyediaan Informasi Industri untuk IUI, IPUI, IUKI, dan IPKI Kewenangan Provinsi Berbasis Sistem Informasi Industri Nasional (SIINas);35;187048500;2024
+5194;3.27.01.1.01;Perencanaan, Penganggaran, dan Evaluasi Kinerja Perangkat Daerah;33;1290681857;2024
+5194;3.27.01.1.02;Administrasi Keuangan Perangkat Daerah;33;30116536189;2024
+5194;3.27.01.1.03;Administrasi Barang Milik Daerah pada Perangkat Daerah;33;482966000;2024
+5194;3.27.01.1.05;Administrasi Kepegawaian Perangkat Daerah;33;164156550;2024
+5194;3.27.01.1.06;Administrasi Umum Perangkat Daerah;33;1033327576;2024
+5194;3.27.01.1.07;Pengadaan Barang Milik Daerah Penunjang Urusan Pemerintah Daerah;33;1325158647;2024
+5194;3.27.01.1.08;Penyediaan Jasa Penunjang Urusan Pemerintahan Daerah;33;7542387468;2024
+5194;3.27.01.1.09;Pemeliharaan Barang Milik Daerah Penunjang Urusan Pemerintahan Daerah;33;2011591600;2024
+5189;3.27.02.1.01;Pengawasan Peredaran Sarana Pertanian;33;7906684080;2024
+5189;3.27.02.1.02;Pengawasan Mutu, Penyediaan dan Peredaran Benih Tanaman;33;22683686164;2024
+5189;3.27.02.1.04;Peningkatan Ketersediaan dan Mutu Benih/Bibit Ternak dan Tanaman Pakan Ternak, Bahan Pakan, serta Pakan Kewenangan Provinsi;33;1307411043;2024
+5189;3.27.02.1.05;Pengendalian dan Pengawasan Penyediaan dan Peredaran Benih/Bibit Ternak dan Tanaman Pakan Ternak serta Pakan Kewenangan Provinsi;33;8844529400;2024
+5190;3.27.03.1.01;Penataan Prasarana Pertanian;33;5620453458;2024
+5191;3.27.04.1.01;Penjaminan Kesehatan Hewan, Penutupan dan Pembukaan Daerah Wabah Penyakit Hewan Menular Lintas Daerah Kabupaten/Kota dalam 1 (satu) Daerah Provinsi;33;472160000;2024
+5191;3.27.04.1.02;Pengawasan Pemasukan dan Pengeluaran Hewan dan Produk Hewan Lintas Daerah Provinsi;33;625840000;2024
+5191;3.27.04.1.03;Penerapan Persyaratan Teknis Sertifikasi Zona/Kompartemen Bebas Penyakit dan Unit Usaha Produk Hewan;33;723892885;2024
+5191;3.27.04.1.04;Sertifikasi Persyaratan Teknis Kesehatan Masyarakat Veteriner ;33;408747386;2024
+5192;3.27.05.1.01;Pengendalian dan Penanggulangan Bencana Pertanian Provinsi;33;3727051630;2024
+5193;3.27.07.1.02;Pengembangan Penerapan Penyuluhan Pertanian;33;272531817;2024
+5169;2.23.01.1.01;Perencanaan, Penganggaran, dan Evaluasi Kinerja Perangkat Daerah;30;302751100;2024
+5169;2.23.01.1.02;Administrasi Keuangan Perangkat Daerah;30;14462187388;2024
+5169;2.23.01.1.03;Administrasi Barang Milik Daerah pada Perangkat Daerah;30;157729750;2024
+5169;2.23.01.1.05;Administrasi Kepegawaian Perangkat Daerah;30;34745000;2024
+5169;2.23.01.1.06;Administrasi Umum Perangkat Daerah;30;650315400;2024
+5169;2.23.01.1.07;Pengadaan Barang Milik Daerah Penunjang Urusan Pemerintah Daerah;30;1188123290;2024
+5169;2.23.01.1.08;Penyediaan Jasa Penunjang Urusan Pemerintahan Daerah;30;2072928746;2024
+5169;2.23.01.1.09;Pemeliharaan Barang Milik Daerah Penunjang Urusan Pemerintahan Daerah;30;5459696059;2024
+5167;2.23.02.1.01;Pengelolaan Perpustakaan Tingkat Daerah Provinsi ;30;548252688;2024
+5167;2.23.02.1.02;Pembudayaan Gemar Membaca Tingkat Daerah Provinsi;30;880507300;2024
+5168;2.23.03.1.01;Pelestarian Karya Cetak dan Karya Rekam Koleksi Daerah di Daerah Provinsi;30;135936403;2024
+5168;2.23.03.1.03;Pelestarian Naskah Kuno Milik Daerah Provinsi;30;120576206;2024
+5168;2.23.03.1.04;Pengembangan Koleksi Budaya Etnis Nusantara yang ditemukan oleh Pemerintah Daerah Provinsi;30;197737171;2024
+5170;2.24.02.1.01;Pengelolaan Arsip Dinamis Provinsi;30;492526800;2024
+5170;2.24.02.1.02;Pengelolaan Arsip Statis Daerah Provinsi;30;36624000;2024
+5170;2.24.02.1.03;Pengelolaan Simpul Jaringan dalam Sistem Informasi Kearsipan Nasional Tingkat Provinsi;30;270332300;2024
+5171;2.24.03.1.01;Pemusnahan Arsip dilingkungan Pemerintah Daerah Provinsi yang Memiliki Retensi di Bawah 10 Tahun;30;26994848;2024
+5171;2.24.03.1.02;Perlindungan dan Penyelamatan Arsip Akibat Bencana yang Berskala Provinsi;30;41590000;2024
+5171;2.24.03.1.03;Penyelamatan Arsip Perangkat Daerah Provinsi yang digabung dan/atau dibubarkan, dan Pemekaran Daerah Kabupaten/Kota;30;27544750;2024
+5171;2.24.03.1.04;Autentifikasi Arsip Statis dan Arsip Hasil Alih Media yang Dikelola oleh Lembaga Kearsipan Provinsi;30;23222000;2024
+5171;2.24.03.1.05;Pencarian Arsip Statis Provinsi yang Dinyatakan Hilang;30;31305150;2024
+5072;1.04.01.1.01;Perencanaan, Penganggaran, dan Evaluasi Kinerja Perangkat Daerah;15;190639250;2024
+5072;1.04.01.1.02;Administrasi Keuangan Perangkat Daerah;15;12108970871;2024
+5072;1.04.01.1.03;Administrasi Barang Milik Daerah pada Perangkat Daerah;15;121258100;2024
+5072;1.04.01.1.05;Administrasi Kepegawaian Perangkat Daerah;15;0;2024
+5072;1.04.01.1.06;Administrasi Umum Perangkat Daerah;15;625942058;2024
+5072;1.04.01.1.07;Pengadaan Barang Milik Daerah Penunjang Urusan Pemerintah Daerah;15;431822660;2024
+5072;1.04.01.1.08;Penyediaan Jasa Penunjang Urusan Pemerintahan Daerah;15;744533923;2024
+5072;1.04.01.1.09;Pemeliharaan Barang Milik Daerah Penunjang Urusan Pemerintahan Daerah;15;1052900000;2024
+5069;1.04.02.1.01;Pendataan Penyediaan dan Rehabilitasi Rumah Korban Bencana atau Relokasi Program Provinsi;15;984930250;2024
+5069;1.04.02.1.02;Sosialisasi dan Persiapan Penyediaan dan Rehabilitasi Rumah Korban Bencana atau Relokasi Program Provinsi;15;337095000;2024
+5069;1.04.02.1.03;Pembangunan dan Rehabilitasi Rumah Korban Bencana atau Relokasi Program Provinsi;15;7987307966;2024
+5070;1.04.03.1.02;Peningkatan Kualitas Kawasan Permukiman Kumuh dengan Luas 10 (Sepuluh) Ha sampai dengan di Bawah 15 (Lima Belas) Ha;15;31637269946;2024
+5071;1.04.05.1.01;Urusan Penyelenggaraan PSU Permukiman;15;46971152807;2024
+5073;2.10.04.1.01;Penyelesaian Sengketa Tanah Garapan Lintas Daerah Kabupaten/Kota dalam 1 (satu) Daerah Provinsi;15;117043200;2024
+5074;2.10.06.1.01;Penetapan Subyek dan Obyek Redistribusi Tanah Lintas Daerah Kabupaten/Kota dalam 1 (satu) Daerah Provinsi;15;148870200;2024
+5075;2.10.10.1.01;Perencanaan Penggunaan Tanah yang Hamparannya Lintas Daerah Kabupaten/Kota dalam 1 (satu) Daerah Provinsi;15;68304700;2024
+5087;1.06.01.1.01;Perencanaan, Penganggaran, dan Evaluasi Kinerja Perangkat Daerah;16;196980000;2024
+5087;1.06.01.1.02;Administrasi Keuangan Perangkat Daerah;16;19785971785;2024
+5087;1.06.01.1.05;Administrasi Kepegawaian Perangkat Daerah;16;99999900;2024
+5087;1.06.01.1.06;Administrasi Umum Perangkat Daerah;16;307998960;2024
+5087;1.06.01.1.07;Pengadaan Barang Milik Daerah Penunjang Urusan Pemerintah Daerah;16;469480800;2024
+5087;1.06.01.1.08;Penyediaan Jasa Penunjang Urusan Pemerintahan Daerah;16;1434149567;2024
+5087;1.06.01.1.09;Pemeliharaan Barang Milik Daerah Penunjang Urusan Pemerintahan Daerah;16;354087560;2024
+5081;1.06.02.1.01;Penerbitan Izin Pengumpulan Sumbangan Lintas Daerah Kabupaten/Kota dalam 1 (Satu) Daerah Provinsi;16;31940000;2024
+5081;1.06.02.1.02;Pemberdayaan Potensi Sumber Kesejahteraan Sosial Provinsi;16;564870000;2024
+5082;1.06.03.1.01;Pemulangan Warga Negara Migran Korban Tindak Kekerasan dari Titik Debarkasi di Daerah Provinsi untuk Dipulangkan ke Daerah Kabupaten/Kota Asal;16;10000000;2024
+5083;1.06.04.1.01;Rehabilitasi Sosial Dasar Penyandang Disabilitas TerlAntar di dalam Panti;16;419916500;2024
+5083;1.06.04.1.02;Rehabilitasi Sosial Dasar Anak TerlAntar di dalam Panti;16;380592260;2024
+5083;1.06.04.1.03;Rehabilitasi Sosial Dasar Lanjut Usia Terlantar di dalam Panti;16;3639805766;2024
+5083;1.06.04.1.04;Rehabilitasi Sosial Dasar Gelandangan dan Pengemis di dalam Panti;16;293048720;2024
+5083;1.06.04.1.05;Rehabilitasi Sosial bagi Penyandang Masalah Kesejahteraan Sosial (PMKS) Lainnya di Luar HIV/AIDS dan NAPZA di dalam Panti;16;114574000;2024
+5084;1.06.05.1.01;Pengangkatan Anak antar WNI dan Pengangkatan Anak oleh Orang Tua Tunggal;16;50000000;2024
+5084;1.06.05.1.02;Pengelolaan Data Fakir Miskin Cakupan Daerah Provinsi;16;13864283045;2024
+5085;1.06.06.1.01;Perlindungan Sosial Korban Bencana Alam dan Sosial Provinsi;16;362912830;2024
+5086;1.06.07.1.01;Pengelolaan Taman Makam Pahlawan Nasional Provinsi;16;126990000;2024
+5188;3.27.01.1.01;Perencanaan, Penganggaran, dan Evaluasi Kinerja Perangkat Daerah;32;1243783850;2024
+5188;3.27.01.1.02;Administrasi Keuangan Perangkat Daerah;32;40029472170;2024
+5188;3.27.01.1.03;Administrasi Barang Milik Daerah pada Perangkat Daerah;32;83846800;2024
+5188;3.27.01.1.05;Administrasi Kepegawaian Perangkat Daerah;32;285116663;2024
+5188;3.27.01.1.06;Administrasi Umum Perangkat Daerah;32;1321365287;2024
+5188;3.27.01.1.07;Pengadaan Barang Milik Daerah Penunjang Urusan Pemerintah Daerah;32;683329367;2024
+5188;3.27.01.1.08;Penyediaan Jasa Penunjang Urusan Pemerintahan Daerah;32;6646841772;2024
+5188;3.27.01.1.09;Pemeliharaan Barang Milik Daerah Penunjang Urusan Pemerintahan Daerah;32;1409515400;2024
+5183;3.27.02.1.01;Pengawasan Peredaran Sarana Pertanian;32;58491369025;2024
+5183;3.27.02.1.02;Pengawasan Mutu, Penyediaan dan Peredaran Benih Tanaman;32;16890875713;2024
+5183;3.27.02.1.03;Pengelolaan Sumber Daya Genetik (SDG) Hewan, Tumbuhan, dan Mikro Organisme Kewenangan Provinsi;32;109711750;2024
+5184;3.27.03.1.01;Penataan Prasarana Pertanian;32;13496768464;2024
+5185;3.27.05.1.01;Pengendalian dan Penanggulangan Bencana Pertanian Provinsi;32;1482399052;2024
+5186;3.27.06.1.01;Penerbitan Izin Usaha Pertanian yang Kegiatan Usahanya dalam Daerah Kabupaten/Kota;32;1168805750;2024
+5187;3.27.07.1.01;Pengembangan Ketenagaan Penyuluhan Pertanian;32;526046200;2024
+5187;3.27.07.1.02;Pengembangan Penerapan Penyuluhan Pertanian;32;8496751420;2024
+5187;3.27.07.1.03;Pengembangan Kapasitas Kelembagaan Ekonomi Petani Berbasis Kawasan;32;1204325800;2024
+5093;2.07.01.1.01;Perencanaan, Penganggaran, dan Evaluasi Kinerja Perangkat Daerah;17;705753550;2024
+5093;2.07.01.1.02;Administrasi Keuangan Perangkat Daerah;17;30797233083;2024
+5093;2.07.01.1.03;Administrasi Barang Milik Daerah pada Perangkat Daerah;17;116995000;2024
+5093;2.07.01.1.04;Administrasi Pendapatan Daerah Kewenangan Perangkat Daerah;17;52558000;2024
+5093;2.07.01.1.05;Administrasi Kepegawaian Perangkat Daerah;17;70446000;2024
+5093;2.07.01.1.06;Administrasi Umum Perangkat Daerah;17;483108834;2024
+5093;2.07.01.1.07;Pengadaan Barang Milik Daerah Penunjang Urusan Pemerintah Daerah;17;777093933;2024
+5093;2.07.01.1.08;Penyediaan Jasa Penunjang Urusan Pemerintahan Daerah;17;862465208;2024
+5093;2.07.01.1.09;Pemeliharaan Barang Milik Daerah Penunjang Urusan Pemerintahan Daerah;17;420925000;2024
+5088;2.07.02.1.01;Penyusunan Rencana Tenaga Kerja (RTK);17;70000000;2024
+5089;2.07.03.1.01;Pelaksanaan Latihan Kerja Berdasarkan Klaster Kompetensi;17;1241310724;2024
+5089;2.07.03.1.02;Pelaksanaan Akreditasi Lembaga Pelatihan Kerja;17;35650000;2024
+5089;2.07.03.1.03;Konsultansi Produktivitas pada Perusahaan Menengah;17;134443250;2024
+5089;2.07.03.1.04;Pengukuran Produktivitas Tingkat Daerah Provinsi;17;58050150;2024
+5090;2.07.04.1.01;Pelayanan Antar Kerja Lintas Daerah Kabupaten/Kota;17;10500535531;2024
+5090;2.07.04.1.02;Penerbitan Izin Lembaga Penempatan Tenaga Kerja Swasta (LPTKS) lebih dari 1 (Satu) Daerah Kabupaten/Kota;17;10000000;2024
+5090;2.07.04.1.03;Pengelolaan Informasi Pasar Kerja;17;85000000;2024
+5090;2.07.04.1.04;Pelindungan PMI (Pra dan Purna Penempatan) di Daerah Provinsi;17;114999875;2024
+5090;2.07.04.1.05;Pengesahan RPTKA Perpanjangan yang Tidak Mengandung Perubahan Jabatan, Jumlah TKA, dan Lokasi Kerja dalam 1 (satu) Daerah Provinsi;17;25000000;2024
+5091;2.07.05.1.01;Pengesahan Peraturan Perusahaan dan Pendaftaran Perjanjian Kerja Bersama untuk yang Mempunyai Wilayah Kerja lebih dari 1 (satu) Kabupaten/Kota;17;100000000;2024
+5091;2.07.05.1.02;Pencegahan dan Penyelesaian Perselisihan Hubungan Industrial, Mogok Kerja, dan Penutupan Perusahaan yang Berakibat/Berdampak pada Kepentingan di 1 (satu) Daerah Provinsi;17;826927850;2024
+5091;2.07.05.1.03;Penetapan Upah Minimum Provinsi (UMP), Upah Minimum Sektoral Provinsi (UMSP), Upah Minimum Kabupaten/Kota (UMK), dan Upah Minimum Sektoral Kabupaten/Kota (UMSK);17;170000000;2024
+5092;2.07.06.1.01;Penyelenggaraan Pengawasan Ketenagakerjaan;17;1317029610;2024
+5094;3.32.02.1.01;Pencadangan Tanah untuk Kawasan Transmigrasi;17;902667475;2024
+5095;3.32.03.1.01;Penataan Persebaran Penduduk yang Berasal dari Lintas Daerah Kabupaten/Kota dalam 1 (Satu) Daerah Provinsi;17;2440800799;2024
+5096;3.32.04.1.01;Pengembangan Satuan Permukiman pada Tahap Pemantapan;17;729410250;2024
+5251;6.01.01.1.01;Perencanaan, Penganggaran, dan Evaluasi Kinerja Perangkat Daerah;48;31310000;2024
+5251;6.01.01.1.02;Administrasi Keuangan Perangkat Daerah;48;19229092111;2024
+5251;6.01.01.1.03;Administrasi Barang Milik Daerah pada Perangkat Daerah;48;45945000;2024
+5251;6.01.01.1.05;Administrasi Kepegawaian Perangkat Daerah;48;2301375000;2024
+5251;6.01.01.1.06;Administrasi Umum Perangkat Daerah;48;1217001900;2024
+5251;6.01.01.1.07;Pengadaan Barang Milik Daerah Penunjang Urusan Pemerintah Daerah;48;2140555000;2024
+5251;6.01.01.1.08;Penyediaan Jasa Penunjang Urusan Pemerintahan Daerah;48;2140920537;2024
+5251;6.01.01.1.09;Pemeliharaan Barang Milik Daerah Penunjang Urusan Pemerintahan Daerah;48;1439666000;2024
+5249;6.01.02.1.01;Penyelenggaraan Pengawasan Internal;48;7038290000;2024
+5249;6.01.02.1.02;Penyelenggaraan Pengawasan dengan Tujuan Tertentu;48;1368190000;2024
+5250;6.01.03.1.01;Perumusan Kebijakan Teknis di Bidang Pengawasan dan Fasilitasi Pengawasan;48;6500000;2024
+5250;6.01.03.1.02;Pendampingan dan Asistensi;48;1038351500;2024
+5078;1.05.01.1.01;Perencanaan, Penganggaran, dan Evaluasi Kinerja Perangkat Daerah;47;93695000;2024
+5078;1.05.01.1.02;Administrasi Keuangan Perangkat Daerah;47;11062524522;2024
+5078;1.05.01.1.03;Administrasi Barang Milik Daerah pada Perangkat Daerah;47;9950000;2024
+5078;1.05.01.1.05;Administrasi Kepegawaian Perangkat Daerah;47;223132760;2024
+5078;1.05.01.1.06;Administrasi Umum Perangkat Daerah;47;557037860;2024
+5078;1.05.01.1.08;Penyediaan Jasa Penunjang Urusan Pemerintahan Daerah;47;2805643662;2024
+5078;1.05.01.1.09;Pemeliharaan Barang Milik Daerah Penunjang Urusan Pemerintahan Daerah;47;453700000;2024
+5076;1.05.02.1.01;Penanganan Gangguan Ketenteraman dan Ketertiban Umum Lintas Daerah Kabupaten/Kota dalam 1 (Satu) Daerah Provinsi;47;888665800;2024
+5076;1.05.02.1.02;Penegakan Peraturan Daerah Provinsi dan Peraturan Gubernur;47;94516050;2024
+5076;1.05.02.1.03;Pembinaan Penyidik Pegawai Negeri Sipil (PPNS) Provinsi;47;143786000;2024
+5077;1.05.04.1.01;Penyelenggaraan Pemetaan Rawan Bencana Kebakaran;47;246611000;2024
+5077;1.05.04.1.02;Pembinaan dan Pengawasan Pencegahan, Penanggulangan, Penyelamatan Kebakaran dan Penyelamatan Non Kebakaran;47;50000000;2024
+5232;4.02.01.1.01;Perencanaan, Penganggaran, dan Evaluasi Kinerja Perangkat Daerah;46;450789150;2024
+5232;4.02.01.1.02;Administrasi Keuangan Perangkat Daerah;46;10134032284;2024
+5232;4.02.01.1.03;Administrasi Barang Milik Daerah pada Perangkat Daerah;46;228545050;2024
+5232;4.02.01.1.05;Administrasi Kepegawaian Perangkat Daerah;46;1105077480;2024
+5232;4.02.01.1.06;Administrasi Umum Perangkat Daerah;46;7628074635;2024
+5232;4.02.01.1.07;Pengadaan Barang Milik Daerah Penunjang Urusan Pemerintah Daerah;46;14195322979;2024
+5232;4.02.01.1.08;Penyediaan Jasa Penunjang Urusan Pemerintahan Daerah;46;10406049016;2024
+5232;4.02.01.1.09;Pemeliharaan Barang Milik Daerah Penunjang Urusan Pemerintahan Daerah;46;15912676734;2024
+5232;4.02.01.1.15;Layanan Keuangan dan Kesejahteraan DPRD;46;36871518237;2024
+5232;4.02.01.1.16;Layanan Administrasi DPRD;46;1597513698;2024
+5231;4.02.02.1.01;Pembentukan Perda dan Peraturan DPRD;46;9676220150;2024
+5231;4.02.02.1.02;Pembahasan Kebijakan Anggaran;46;1202856250;2024
+5231;4.02.02.1.03;Pengawasan Penyelenggaraan Pemerintahan;46;11151375000;2024
+5231;4.02.02.1.04;Peningkatan Kapasitas DPRD;46;11537345930;2024
+5231;4.02.02.1.05;Penyerapan dan Penghimpunan Aspirasi Masyarakat;46;7937780500;2024
+5231;4.02.02.1.06;Pelaksanaan dan Pengawasan Kode Etik DPRD;46;306280000;2024
+5231;4.02.02.1.07;Pembahasan Kerja Sama Daerah;46;1394572000;2024
+5231;4.02.02.1.08;Fasilitasi Tugas DPRD;46;17501238000;2024
+5230;4.01.01.1.06;Administrasi Umum Perangkat Daerah;44;492811888;2024
+5230;4.01.01.1.08;Penyediaan Jasa Penunjang Urusan Pemerintahan Daerah;44;1290107848;2024
+5221;4.01.08.1.01;Pengendalian Administrasi Pelaksanaan Pembangunan Daerah;44;649299500;2024
+5221;4.01.08.1.02;Pelaporan Pelaksanaan Pembangunan Daerah;44;1086980695;2024
+5222;4.01.01.1.01;Perencanaan, Penganggaran, dan Evaluasi Kinerja Perangkat Daerah;41;56332000;2024
+5222;4.01.01.1.02;Administrasi Keuangan Perangkat Daerah;41;942480000;2024
+5222;4.01.01.1.05;Administrasi Kepegawaian Perangkat Daerah;41;126231000;2024
+5222;4.01.01.1.06;Administrasi Umum Perangkat Daerah;41;501171330;2024
+5222;4.01.01.1.08;Penyediaan Jasa Penunjang Urusan Pemerintahan Daerah;41;491218000;2024
+5222;4.01.01.1.09;Pemeliharaan Barang Milik Daerah Penunjang Urusan Pemerintahan Daerah;41;803080000;2024
+5222;4.01.01.1.13;Fasilitasi Materi dan Komunikasi Pimpinan;41;3288726117;2024
+5222;4.01.01.1.14;Fasilitasi Keprotokolan;41;1990761500;2024
+5221;4.01.08.1.02;Pelaporan Pelaksanaan Pembangunan Daerah;41;0;2024
+5228;4.01.01.1.01;Perencanaan, Penganggaran, dan Evaluasi Kinerja Perangkat Daerah;42;12400000;2024
+5228;4.01.01.1.02;Administrasi Keuangan Perangkat Daerah;42;629240000;2024
+5228;4.01.01.1.05;Administrasi Kepegawaian Perangkat Daerah;42;314087500;2024
+5228;4.01.01.1.06;Administrasi Umum Perangkat Daerah;42;721911200;2024
+5228;4.01.01.1.07;Pengadaan Barang Milik Daerah Penunjang Urusan Pemerintah Daerah;42;40240000;2024
+5228;4.01.01.1.08;Penyediaan Jasa Penunjang Urusan Pemerintahan Daerah;42;176015400;2024
+5228;4.01.01.1.09;Pemeliharaan Barang Milik Daerah Penunjang Urusan Pemerintahan Daerah;42;133000000;2024
+5218;4.01.05.1.01;Fasilitasi Penyusunan Perundang-Undangan;42;1096180400;2024
+5218;4.01.05.1.02;Fasilitasi Bantuan Hukum;42;1476925500;2024
+5227;4.01.01.1.01;Perencanaan, Penganggaran, dan Evaluasi Kinerja Perangkat Daerah;37;35472500;2024
+5227;4.01.01.1.02;Administrasi Keuangan Perangkat Daerah;37;902400000;2024
+5227;4.01.01.1.05;Administrasi Kepegawaian Perangkat Daerah;37;172040000;2024
+5227;4.01.01.1.06;Administrasi Umum Perangkat Daerah;37;371719000;2024
+5227;4.01.01.1.07;Pengadaan Barang Milik Daerah Penunjang Urusan Pemerintah Daerah;37;406451500;2024
+5227;4.01.01.1.08;Penyediaan Jasa Penunjang Urusan Pemerintahan Daerah;37;70397800;2024
+5227;4.01.01.1.09;Pemeliharaan Barang Milik Daerah Penunjang Urusan Pemerintahan Daerah;37;365110000;2024
+5217;4.01.04.1.01;Fasilitasi Pembinaan Mental Spiritual;37;42112309650;2024
+5217;4.01.04.1.02;Fasilitasi Pengembangan Kesejahteraan Rakyat Pelayanan Dasar;37;400999400;2024
+5217;4.01.04.1.03;Fasilitasi Pengembangan Kesejahteraan Rakyat Non Pelayanan Dasar;37;471499850;2024
+5225;4.01.01.1.01;Perencanaan, Penganggaran, dan Evaluasi Kinerja Perangkat Daerah;40;64840950;2024
+5225;4.01.01.1.02;Administrasi Keuangan Perangkat Daerah;40;414090000;2024
+5225;4.01.01.1.05;Administrasi Kepegawaian Perangkat Daerah;40;80465000;2024
+5225;4.01.01.1.06;Administrasi Umum Perangkat Daerah;40;734019130;2024
+5225;4.01.01.1.07;Pengadaan Barang Milik Daerah Penunjang Urusan Pemerintah Daerah;40;22220000;2024
+5225;4.01.01.1.08;Penyediaan Jasa Penunjang Urusan Pemerintahan Daerah;40;23676100;2024
+5225;4.01.01.1.09;Pemeliharaan Barang Milik Daerah Penunjang Urusan Pemerintahan Daerah;40;258130000;2024
+5215;4.01.02.1.01;Fasilitasi Kelembagaan dan Analisis Jabatan;40;1008561950;2024
+5214;4.01.02.1.02;Fasilitasi Reformasi Birokrasi dan Akuntabilitas Kinerja;40;943996225;2024
+5223;4.01.01.1.01;Perencanaan, Penganggaran, dan Evaluasi Kinerja Perangkat Daerah;38;54366060;2024
+5223;4.01.01.1.05;Administrasi Kepegawaian Perangkat Daerah;38;9220000;2024
+5223;4.01.01.1.06;Administrasi Umum Perangkat Daerah;38;1242602554;2024
+5223;4.01.01.1.08;Penyediaan Jasa Penunjang Urusan Pemerintahan Daerah;38;817267850;2024
+5223;4.01.01.1.09;Pemeliharaan Barang Milik Daerah Penunjang Urusan Pemerintahan Daerah;38;293560000;2024
+5216;4.01.03.1.01;Pelaksanaan Tugas Pemerintahan;38;245131266;2024
+5216;4.01.03.1.02;Pelaksanaan Otonomi Daerah;38;534923000;2024
+5216;4.01.03.1.03;Fasilitasi Kerja Sama Daerah;38;1217929270;2024
+5226;4.01.01.1.01;Perencanaan, Penganggaran, dan Evaluasi Kinerja Perangkat Daerah;45;6731000;2024
+5226;4.01.01.1.02;Administrasi Keuangan Perangkat Daerah;45;726300000;2024
+5226;4.01.01.1.05;Administrasi Kepegawaian Perangkat Daerah;45;0;2024
+5226;4.01.01.1.06;Administrasi Umum Perangkat Daerah;45;426106300;2024
+5226;4.01.01.1.07;Pengadaan Barang Milik Daerah Penunjang Urusan Pemerintah Daerah;45;430090000;2024
+5226;4.01.01.1.08;Penyediaan Jasa Penunjang Urusan Pemerintahan Daerah;45;293779500;2024
+5226;4.01.01.1.09;Pemeliharaan Barang Milik Daerah Penunjang Urusan Pemerintahan Daerah;45;612344000;2024
+5220;4.01.07.1.01;Pengelolaan Pengadaan Barang dan Jasa;45;687771100;2024
+5220;4.01.07.1.02;Pengelolaan Layanan Pengadaan Secara Elektronik;45;624484700;2024
+5220;4.01.07.1.03;Pembinaan dan Advokasi Pengadaan Barang dan Jasa;45;692393400;2024
+5229;4.01.01.1.05;Administrasi Kepegawaian Perangkat Daerah;39;47970000;2024
+5229;4.01.01.1.06;Administrasi Umum Perangkat Daerah;39;279623600;2024
+5229;4.01.01.1.08;Penyediaan Jasa Penunjang Urusan Pemerintahan Daerah;39;756890660;2024
+5219;4.01.06.1.01;Pengelolaan Kebijakan dan Koordinasi Perekonomian;39;525559500;2024
+5219;4.01.06.1.02;Pengelolaan Kebijakan dan Koordinasi Sumber Daya Alam;39;499999950;2024
+5219;4.01.06.1.03;Pengelolaan Kebijakan dan Koordinasi BUMD dan BLUD;39;660516150;2024
+5224;4.01.01.1.01;Perencanaan, Penganggaran, dan Evaluasi Kinerja Perangkat Daerah;43;29138750;2024
+5224;4.01.01.1.02;Administrasi Keuangan Perangkat Daerah;43;62617200678;2024
+5224;4.01.01.1.03;Administrasi Barang Milik Daerah pada Perangkat Daerah;43;372364000;2024
+5224;4.01.01.1.05;Administrasi Kepegawaian Perangkat Daerah;43;26000000;2024
+5224;4.01.01.1.06;Administrasi Umum Perangkat Daerah;43;1819764580;2024
+5224;4.01.01.1.07;Pengadaan Barang Milik Daerah Penunjang Urusan Pemerintah Daerah;43;989716187;2024
+5224;4.01.01.1.08;Penyediaan Jasa Penunjang Urusan Pemerintahan Daerah;43;2668980000;2024
+5224;4.01.01.1.09;Pemeliharaan Barang Milik Daerah Penunjang Urusan Pemerintahan Daerah;43;5083259530;2024
+5224;4.01.01.1.12;Fasilitasi Kerumahtanggaan Sekretariat Daerah;43;2413863668;2024
+5224;4.01.01.1.02;Administrasi Keuangan Perangkat Daerah  (WKDH);43;519360000;2024
+5224;4.01.01.1.05;Administrasi Kepegawaian Perangkat Daerah (WKDH);43;45117316;2024
+5224;4.01.01.1.06;Administrasi Umum Perangkat Daerah (WKDH);43;85733470;2024
+5224;4.01.01.1.08;Penyediaan Jasa Penunjang Urusan Pemerintahan Daerah (WKDH);43;49150000;2024
+5224;4.01.01.1.09;Pemeliharaan Barang Milik Daerah Penunjang Urusan Pemerintahan Daerah (WKDH);43;523000000;2024
+5224;4.01.01.1.11;Administrasi Keuangan dan Operasional Kepala Daerah dan Wakil Kepala Daerah (WKDH);43;251712949;2024
+5224;4.01.01.1.12;Fasilitasi Kerumahtanggaan Sekretariat Daerah (WKDH);43;744491265;2024
+5224;4.01.01.1.13;Fasilitasi Materi dan Komunikasi Pimpinan (WKDH);43;1550000000;2024
+5224;4.01.01.1.14;Fasilitasi Keprotokolan (WKDH);43;331435000;2024
+5224;4.01.01.1.02;Administrasi Keuangan Perangkat Daerah (KDH);43;1025400000;2024
+5224;4.01.01.1.05;Administrasi Kepegawaian Perangkat Daerah  (KDH);43;223780;2024
+5224;4.01.01.1.06;Administrasi Umum Perangkat Daerah (KDH);43;171087850;2024
+5224;4.01.01.1.08;Penyediaan Jasa Penunjang Urusan Pemerintahan Daerah (KDH);43;724314600;2024
+5224;4.01.01.1.09;Pemeliharaan Barang Milik Daerah Penunjang Urusan Pemerintahan Daerah  (KDH);43;683000000;2024
+5224;4.01.01.1.11;Administrasi Keuangan dan Operasional Kepala Daerah dan Wakil Kepala Daerah (KDH);43;3434636153;2024
+5224;4.01.01.1.12;Fasilitasi Kerumahtanggaan Sekretariat Daerah (KDH);43;835690881;2024
+5224;4.01.01.1.13;Fasilitasi Materi dan Komunikasi Pimpinan (KDH);43;2536680000;2024
+5224;4.01.01.1.02;Administrasi Keuangan Perangkat Daerah (TU Pimpinan);43;0;2024
+5224;4.01.01.1.05;Administrasi Kepegawaian Perangkat Daerah  (TU Pimpinan);43;161282450;2024
+5224;4.01.01.1.06;Administrasi Umum Perangkat Daerah  (TU Pimpinan);43;1116556693;2024
+5224;4.01.01.1.08;Penyediaan Jasa Penunjang Urusan Pemerintahan Daerah  (TU Pimpinan);43;1002355000;2024
+5224;4.01.01.1.09;Pemeliharaan Barang Milik Daerah Penunjang Urusan Pemerintahan Daerah  (TU Pimpinan);43;900000000;2024
+5224;4.01.01.1.12;Fasilitasi Kerumahtanggaan Sekretariat Daerah  (TU Pimpinan);43;136425350;2024
+5224;4.01.01.1.13;Fasilitasi Materi dan Komunikasi Pimpinan  (TU Pimpinan);43;4683148000;2024
