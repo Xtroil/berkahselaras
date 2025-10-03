@@ -25,7 +25,7 @@
               >{{ tahun }}</b-dropdown-item
             >
           </b-nav-item-dropdown>
-          <b-nav-item-dropdown class="kinerja-gubernur" text="Kinerja Gubernur">
+          <b-nav-item-dropdown class="kinerja-gubernur" text="Kinerja Bupati">
             <b-dropdown-item to="/public-display/display-makro/dashboard"
               >Dashboard</b-dropdown-item
             >
@@ -235,3 +235,4 @@ export default {
   color: white !important;
 }
 </style>
+
