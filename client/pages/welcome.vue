@@ -71,7 +71,7 @@ export default {
           <b-row>
             <b-col>
               <h3 class="my-0 py-0">BERKAH SELARAS</h3>
-              Struktur Logical Framework Kinerja Terintegrasi Perangkat Daerah
+              Sistem Akuntabilitas Kinerja Terintegrasi
             </b-col>
             <b-col>
               <img
